@@ -68,7 +68,6 @@ export default function Home() {
         setLogs(prevLogs => [...prevLogs, ...lines.filter(line => line.trim())]);
       }
 
-      // En lugar de navegar, mostrar los resultados
       setShowResults(true);
     } catch (error) {
       console.error('Error:', error);
@@ -156,23 +155,76 @@ export default function Home() {
             </option>
           ))}
         </select>
+
+        <div 
+          style={{
+            width: '800px',
+            height: '300px',
+            backgroundColor: '#1e1e1e',
+            borderRadius: '8px',
+            border: '1px solid #4a4a4a',
+            padding: '16px',
+            overflowY: 'auto',
+            fontFamily: 'monospace',
+            fontSize: '14px',
+            marginTop: '20px',
+            marginBottom: '20px'
+          }}
+        >
+          <div className="space-y-1">
+            {logs.length === 0 ? (
+              <div style={{ color: '#666', textAlign: 'center', marginTop: '16px' }}>
+                Los logs de la búsqueda aparecerán aquí...
+              </div>
+            ) : (
+              logs.map((log, index) => (
+                <div 
+                  key={index}
+                  style={{
+                    color: log.includes('PUBLICACIÓN NUEVA') 
+                      ? '#4ade80'
+                      : log.includes('Error')
+                      ? '#f87171'
+                      : log.includes('🌐')
+                      ? '#60a5fa'
+                      : log.includes('📦')
+                      ? '#c084fc'
+                      : '#d1d5db'
+                  }}
+                >
+                  {log.replace('data: ', '')}
+                </div>
+              ))
+            )}
+          </div>
+        </div>
+
+        {showResults && (
+          <div 
+            style={{
+              width: '800px',
+              height: '300px',
+              backgroundColor: '#1e1e1e',
+              borderRadius: '8px',
+              border: '1px solid #4a4a4a',
+              padding: '16px',
+              overflowY: 'auto',
+              fontFamily: 'monospace',
+              fontSize: '14px',
+              marginTop: '20px',
+              marginBottom: '20px'
+            }}
+          >
+            <Results />
+          </div>
+        )}
+
+        {error && (
+          <div className="mt-8 bg-red-900/50 border border-red-500 text-red-200 px-4 py-3 rounded">
+            {error}
+          </div>
+        )}
       </div>
-
-      {error && (
-        <div className="mt-8 bg-red-900/50 border border-red-500 text-red-200 px-4 py-3 rounded">
-          {error}
-        </div>
-      )}
-
-      {logs.length > 0 && (
-        <div className="mt-8 bg-black/50 text-green-400 p-4 rounded font-mono whitespace-pre-wrap border border-gray-700">
-          {logs.map((log, index) => (
-            <div key={index}>{log.replace('data: ', '')}</div>
-          ))}
-        </div>
-      )}
-
-      {showResults && <Results />}
     </div>
   );
 }

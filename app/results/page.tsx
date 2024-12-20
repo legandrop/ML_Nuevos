@@ -74,48 +74,39 @@ export default function Results() {
   }
 
   return (
-    <div className="mt-8 space-y-8 max-w-4xl mx-auto p-6 bg-gray-900/50 rounded-lg border border-gray-800">
-      <div className="space-y-4">
-        <div className="p-4 bg-gray-800/50 rounded-lg">
-          <p className="text-lg">
-            Resultados únicos de búsqueda previa{' '}
-            <span className="text-purple-400">{results.previousResults.date}</span>:{' '}
-            <span className="font-bold text-white">{results.previousResults.count}</span>
-          </p>
+    <div className="space-y-4">
+      <div className="flex justify-between items-center text-sm">
+        <div className="p-2 bg-gray-800/50 rounded">
+          <span className="text-gray-400">Búsqueda previa ({results.previousResults.date}):</span>{' '}
+          <span className="text-purple-400 font-bold">{results.previousResults.count}</span>
         </div>
-
-        <div className="p-4 bg-gray-800/50 rounded-lg">
-          <p className="text-lg">
-            Resultados únicos de nueva búsqueda{' '}
-            <span className="text-purple-400">{results.currentResults.date}</span>:{' '}
-            <span className="font-bold text-white">{results.currentResults.count}</span>
-          </p>
+        <div className="p-2 bg-gray-800/50 rounded">
+          <span className="text-gray-400">Nueva búsqueda ({results.currentResults.date}):</span>{' '}
+          <span className="text-purple-400 font-bold">{results.currentResults.count}</span>
         </div>
       </div>
 
-      <div className="mt-8">
-        <h2 className="text-2xl font-bold mb-4 text-purple-400">Resultados nuevos:</h2>
-        <div className="space-y-2">
-          {results.newProducts.map((product, index) => (
-            <div 
-              key={index} 
-              className="flex items-center justify-between p-3 bg-gray-800/30 rounded-lg hover:bg-gray-800/50 transition-colors"
+      <div className="space-y-2">
+        <div className="text-sm text-purple-400 font-bold">Productos nuevos:</div>
+        {results.newProducts.map((product, index) => (
+          <div 
+            key={index} 
+            className="flex items-center justify-between p-2 bg-gray-800/30 rounded text-sm hover:bg-gray-800/50 transition-colors"
+          >
+            <span className="text-white flex-1 truncate mr-2">{product.titulo}</span>
+            <span className="text-green-400 mx-2 whitespace-nowrap">
+              $ {product.precio}
+            </span>
+            <a 
+              href={product.enlace}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-2 py-1 bg-purple-600 text-white rounded hover:bg-purple-500 transition-colors text-xs"
             >
-              <span className="text-white flex-1">{product.titulo}</span>
-              <span className="text-green-400 mx-4 whitespace-nowrap">
-                $ {product.precio}
-              </span>
-              <a 
-                href={product.enlace}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-4 py-1 bg-purple-600 text-white rounded hover:bg-purple-500 transition-colors"
-              >
-                Link
-              </a>
-            </div>
-          ))}
-        </div>
+              Link
+            </a>
+          </div>
+        ))}
       </div>
     </div>
   );
