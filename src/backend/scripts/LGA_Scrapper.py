@@ -5,6 +5,8 @@ import os
 from datetime import datetime
 import glob
 import sys
+import time
+import random
 
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
 if not os.path.exists(OUTPUT_DIR):
@@ -39,16 +41,11 @@ def construir_url(busqueda, desde=None):
     """
     busqueda_formateada = busqueda.replace(" ", "-").lower()
     if desde is None:
-        # Primera página
-        # URL con el formato: https://listado.mercadolibre.com.ar/toyota-corolla-cross#D[A:toyota%20corolla%20cross]
-        return f"https://listado.mercadolibre.com.ar/{busqueda_formateada}#D[A:{busqueda.replace(' ', '%20')}]"
+        # Primera página - sin codificar los corchetes
+        return f"https://listado.mercadolibre.com.ar/{busqueda_formateada}#D[A:{busqueda}]"
     else:
         # Páginas siguientes
-        # URL con el formato: https://autos.mercadolibre.com.ar/toyota/corolla-cross/toyota-corolla-cross_Desde_49_NoIndex_True
-        palabras = busqueda.split()
-        marca = palabras[0].lower()
-        modelo = '-'.join(palabras[1:]).lower()
-        return f"https://listado.mercadolibre.com.ar/{marca}-{modelo}-{busqueda_formateada}_Desde_{desde}_NoIndex_True"
+        return f"https://listado.mercadolibre.com.ar/{busqueda_formateada}_Desde_{desde}_NoIndex_True"
 
 def scrape_productos(url):
     """
@@ -62,14 +59,21 @@ def scrape_productos(url):
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
         "Referer": "https://www.mercadolibre.com.ar/",
-        "Upgrade-Insecure-Requests": "1"
+        "Upgrade-Insecure-Requests": "1",
+        "Cache-Control": "no-cache",
+        "Pragma": "no-cache"
     }
     
+    # Agregar un delay aleatorio entre 1 y 3 segundos
+    time.sleep(1 + random.random() * 2)
+    
     try:
+        # No codificar la URL completa, dejar que requests maneje la codificación
         response = requests.get(url, headers=headers)
         response.raise_for_status()
     except requests.RequestException as e:
         print(f"❌ Error al acceder a la página: {e}")
+        print(f"🔍 URL intentada: {url}")
         return [], None
 
     soup = BeautifulSoup(response.content, "html.parser")
@@ -93,9 +97,27 @@ def scrape_productos(url):
             continue
 
     # Buscar el enlace de la siguiente página
+    print("\n🔍 Buscando sección de paginación...")
+    
+    # Primero intentamos con la clase ui-search-andes-pagination
     pagination = soup.find("ul", class_="ui-search-andes-pagination")
     if pagination:
-        print("✅ Encontrada la sección de paginación")
+        print("✅ Encontrada la sección de paginación (método 1)")
+    else:
+        # Si no funciona, intentamos con la clase andes-pagination
+        pagination = soup.find("ul", class_="andes-pagination")
+        if pagination:
+            print("✅ Encontrada la sección de paginación (método 2)")
+        else:
+            print("❌ No se encontró la sección de paginación")
+            print("\n🔍 HTML cercano a la paginación:")
+            nav = soup.find("nav", {"aria-label": "Paginación"})
+            if nav:
+                print(nav.prettify())
+            else:
+                print("No se encontró el nav de paginación")
+
+    if pagination:
         next_button = pagination.find("li", class_="andes-pagination__button--next")
         if next_button:
             print("✅ Encontrado el botón siguiente")
@@ -108,17 +130,16 @@ def scrape_productos(url):
                 print("❌ No se encontró el enlace dentro del botón siguiente")
         else:
             print("❌ No se encontró el botón siguiente dentro de la paginación")
-    else:
-        print("❌ No se encontró la sección de paginación")
-        # Intentar buscar directamente el botón siguiente
-        next_button = soup.find("li", class_="andes-pagination__button--next")
-        if next_button:
-            print("✅ Encontrado el botón siguiente (búsqueda alternativa)")
-            next_link = next_button.find("a")
-            if next_link and "href" in next_link.attrs:
-                next_url = next_link["href"]
-                print(f"🔍 URL del botón siguiente: {next_url}")
-                return productos, next_url
+
+    # Búsqueda alternativa directa
+    next_button = soup.find("li", class_="andes-pagination__button--next")
+    if next_button:
+        print("✅ Encontrado el botón siguiente (búsqueda alternativa)")
+        next_link = next_button.find("a")
+        if next_link and "href" in next_link.attrs:
+            next_url = next_link["href"]
+            print(f"🔍 URL del botón siguiente: {next_url}")
+            return productos, next_url
 
     return productos, None
 
