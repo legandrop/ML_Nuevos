@@ -64,47 +64,64 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen flex items-center justify-center bg-[#1e1e1e]">
-      <div className="w-full max-w-4xl mx-auto p-8 space-y-8">
-        <div className="flex flex-col items-center space-y-8">
-          <h1 className="text-3xl font-bold text-white">Probando Otro</h1>
-          
-          <div className="w-full flex gap-4">
-            <input
-              type="text"
-              value={searchTerm}
-              onChange={(e) => setSearchTerm(e.target.value)}
-              onKeyPress={handleKeyPress}
-              placeholder="Ej: Toyota Corolla Cross"
-              className="flex-1 p-3 rounded-md input-dark text-white placeholder-gray-400"
-              disabled={isSearching}
-            />
-            <button
-              onClick={handleSearch}
-              disabled={isSearching}
-              className="px-6 py-3 bg-[#8b5cf6] text-white rounded-md hover:bg-[#7c3aed] disabled:bg-opacity-50 disabled:cursor-not-allowed transition-colors"
-            >
-              {isSearching ? 'Buscando...' : 'Buscar'}
-            </button>
-          </div>
-
-          {error && (
-            <div className="w-full bg-red-900/50 border border-red-500 text-red-200 px-4 py-3 rounded">
-              {error}
-            </div>
-          )}
-
-          {logs.length > 0 && (
-            <div className="w-full bg-black/50 text-green-400 p-4 rounded font-mono whitespace-pre-wrap border border-gray-700">
-              {logs.map((log, index) => (
-                <div key={index}>{log.replace('data: ', '')}</div>
-              ))}
-            </div>
-          )}
-
-          {showResults && <Results />}
-        </div>
+    <div style={{
+      position: 'absolute',
+      top: '50%',
+      left: '50%',
+      transform: 'translate(-50%, -50%)',
+    }}>
+      <div style={{ display: 'flex', gap: '24px' }}>
+        <input
+          type="text"
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          onKeyPress={handleKeyPress}
+          placeholder="Ej: Toyota Corolla Cross"
+          style={{
+            width: '300px',
+            padding: '12px',
+            borderRadius: '8px',
+            backgroundColor: '#2d2d2d',
+            color: 'white',
+            outline: 'none',
+            border: 'none'
+          }}
+          disabled={isSearching}
+        />
+        <button
+          onClick={handleSearch}
+          style={{
+            padding: '12px 24px',
+            backgroundColor: '#8b5cf6',
+            color: 'white',
+            borderRadius: '12px',
+            border: 'none',
+            cursor: 'pointer',
+            transition: 'background-color 0.2s'
+          }}
+          onMouseOver={(e) => e.currentTarget.style.backgroundColor = '#7c3aed'}
+          onMouseOut={(e) => e.currentTarget.style.backgroundColor = '#8b5cf6'}
+          disabled={isSearching}
+        >
+          {isSearching ? 'Buscando...' : 'Buscar'}
+        </button>
       </div>
-    </main>
+
+      {error && (
+        <div className="mt-8 bg-red-900/50 border border-red-500 text-red-200 px-4 py-3 rounded">
+          {error}
+        </div>
+      )}
+
+      {logs.length > 0 && (
+        <div className="mt-8 bg-black/50 text-green-400 p-4 rounded font-mono whitespace-pre-wrap border border-gray-700">
+          {logs.map((log, index) => (
+            <div key={index}>{log.replace('data: ', '')}</div>
+          ))}
+        </div>
+      )}
+
+      {showResults && <Results />}
+    </div>
   );
 }
