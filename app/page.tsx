@@ -10,7 +10,7 @@ export default function Home() {
   const [error, setError] = useState('');
   const [showResults, setShowResults] = useState(false);
   const [previousSearches, setPreviousSearches] = useState<string[]>([]);
-  const [activeTab, setActiveTab] = useState<'logs' | 'results'>('logs');
+  const [activeTab, setActiveTab] = useState<'logs' | 'results'>('results');
 
   useEffect(() => {
     const loadPreviousSearches = async () => {
@@ -160,7 +160,7 @@ export default function Home() {
         <div 
           style={{
             width: '800px',
-            height: '300px',
+            height: '600px',
             backgroundColor: '#1e1e1e',
             borderRadius: '8px',
             border: '1px solid #4a4a4a',
@@ -173,11 +173,11 @@ export default function Home() {
             borderBottom: '1px solid #4a4a4a',
           }}>
             <button
-              onClick={() => setActiveTab('logs')}
+              onClick={() => setActiveTab('results')}
               style={{
                 padding: '8px 16px',
-                backgroundColor: activeTab === 'logs' ? '#2d2d2d' : 'transparent',
-                color: activeTab === 'logs' ? '#fff' : '#666',
+                backgroundColor: activeTab === 'results' ? '#2d2d2d' : 'transparent',
+                color: activeTab === 'results' ? '#fff' : '#666',
                 border: 'none',
                 borderRight: '1px solid #4a4a4a',
                 cursor: 'pointer',
@@ -186,14 +186,14 @@ export default function Home() {
                 fontSize: '14px'
               }}
             >
-              Logs
+              Resultados
             </button>
             <button
-              onClick={() => setActiveTab('results')}
+              onClick={() => setActiveTab('logs')}
               style={{
                 padding: '8px 16px',
-                backgroundColor: activeTab === 'results' ? '#2d2d2d' : 'transparent',
-                color: activeTab === 'results' ? '#fff' : '#666',
+                backgroundColor: activeTab === 'logs' ? '#2d2d2d' : 'transparent',
+                color: activeTab === 'logs' ? '#fff' : '#666',
                 border: 'none',
                 borderLeft: '1px solid #4a4a4a',
                 cursor: 'pointer',
@@ -202,7 +202,7 @@ export default function Home() {
                 fontSize: '14px'
               }}
             >
-              Resultados
+              Logs
             </button>
           </div>
 
@@ -213,7 +213,15 @@ export default function Home() {
             fontFamily: 'monospace',
             fontSize: '14px'
           }}>
-            {activeTab === 'logs' ? (
+            {activeTab === 'results' ? (
+              showResults ? (
+                <Results />
+              ) : (
+                <div style={{ color: '#666', textAlign: 'center', marginTop: '16px' }}>
+                  Los resultados de la búsqueda aparecerán aquí...
+                </div>
+              )
+            ) : (
               <div className="space-y-1">
                 {logs.length === 0 ? (
                   <div style={{ color: '#666', textAlign: 'center', marginTop: '16px' }}>
@@ -240,8 +248,6 @@ export default function Home() {
                   ))
                 )}
               </div>
-            ) : (
-              showResults && <Results />
             )}
           </div>
         </div>
