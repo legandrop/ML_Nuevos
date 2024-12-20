@@ -1,0 +1,211 @@
+📄 Archivo anterior encontrado: '/Users/leg4/Desktop/Codin/ML_Nuevos/src/backend/data/Bandeja_Technics_Pitch_20241220_182246.json'
+📦 Se encontraron 50 productos únicos en el JSON anterior.
+
+🔍 Comparando productos actuales con los anteriores...
+
+❌ Traba De Brazo Tocadiscos Audio Technica At-lp120 - $ 4.394 - Existía ❌
+❌ Audio Technica At Lp120 Usb Bandeja Tocadiscos Vinilo Color Gris - $ 814.000 - Existía ❌
+❌ Audio-technica At-lp120xusb Bandeja Tocadiscos - Audionet Color Negro - $ 839.815 - Existía ❌
+❌ Bandeja para DJ Audio-Technica AT-LP120XUSB-BK color negro 220V - $ 1.133.750 - Existía ❌
+❌ Audio-technica At-lpw30tk Bandeja Giradiscos Color Madera - $ 621.557 - Existía ❌
+❌ Bandeja Giradiscos Audio Technica At-lp120xusb Direct Drive - $ 839.815 - Existía ❌
+❌ Audio-technica At-lp120xusb Bandeja Tocadiscos - Audionet - $ 839.815 - Existía ❌
+❌ Adaptador Discos De Centro Grande Para Technics Sl-1200 1210 - $ 15.365 - Existía ❌
+❌ Bandeja para DJ Audio-Technica At-Lp120xbt-Usb color negro 220V - $ 945.141 - Existía ❌
+❌ Audio Technica At-lp120xusb Bandeja Giradiscos Usb - $ 839.815 - Existía ❌
+❌ Fuente Transformador Para Bandeja  Audio Technica Lp120x - $ 17.990 - Existía ❌
+❌ Pata Para Bandeja Giradiscos Technics Sl-1200 Sl-1210  Mk - $ 33.441 - Existía ❌
+❌ Bisagra P/ Tapa Bandeja Technics Sl-b2 Sl-b202 Sl-d2 D33 Mas - $ 53.618 - Existía ❌
+❌ Bisagra Para Bandeja Giradiscos Audio Technica Lp120x Y Otra - $ 31.990 - Existía ❌
+❌ Bisagras Para Giradisco Technics Sl D1 D2 D3 Y Otros Modelos - $ 30.000 - Existía ❌
+❌ Manual De Instrucciones Para Bandeja  Audio Technica Lp120x - $ 6.994 - Existía ❌
+❌ Correa Para Tocadiscos Technics Sl-20 , Sl-22 , Sl-23 - $ 54.290 - Existía ❌
+❌ Audio Technica At Lp120 Usb Bandeja Tocadiscos Vinilo Nuevo - $ 839.815 - Existía ❌
+❌ Tornamesa Audio-technica Lp70x Bronce - $ 470.706 - Existía ❌
+❌ Bandeja Giradiscos Audio Technica At-lp120x Bk Direct Drive - $ 839.815 - Existía ❌
+❌ Bandeja para DJ Audio-Technica AT-LPW40WN color marrón 220V - $ 851.137 - Existía ❌
+❌ Bandeja Giradisco Audio Technica At Lpw30tk Madera - $ 906.742 - Existía ❌
+❌ Giradisco Audio-technica At-lp120xusb Negro - $ 839.815 - Existía ❌
+❌ Bandeja Giradisco Audio-technica At-lp70x Cu - $ 672.033 - Existía ❌
+❌ Audio Technica Lp120x Usb Bandeja Giradisco Traccion Directa - $ 839.815 - Existía ❌
+❌ Bandeja Giradisco Audio Technica At Lpw30tk Madera Palermo - $ 731.244 - Existía ❌
+❌ Audio Technica At-lp120x Usb Bandeja Vinilos Dj Direct Drive - $ 839.000 - Existía ❌
+❌ Bandeja Giradisco Audio-technica At-lp70x - $ 493.450 - Existía ❌
+❌ Audio Technica At-lp120xusb-bk Bandeja Giradiscos - $ 839.814 - Existía ❌
+❌ Perilla De Pitch Deslizable Audio Technica Lp120x Original - $ 35.459 - Existía ❌
+❌ Bandeja Giradisco Audio-technica At-lp120xusb Ac., Directo - $ 839.815 - Existía ❌
+❌ Bandeja Giradisco Audiotechnica Lp120x Usb Directa 33 45 78 - $ 839.815 - Existía ❌
+❌ Bandeja Tocadiscos Audio Technica Lp120x Usb Con Pitch - $ 852.257 - Existía ❌
+❌ Audio Technica At-lp120x Usb Bandeja Vinilos Dj Direct Drive - $ 1.036.167 - Existía ❌
+❌ Toca Discos Manual Audio-Technica AT-LPW30BK Negro - $ 984.693 - Existía ❌
+❌ Bandeja Profesional  - Modelo At-lp120xusb Audio-technica - $ 839.815 - Existía ❌
+❌ Pitch Fader Plaqueta Bandeja Audio Technica Lp120x Original - $ 120.561 - Existía ❌
+❌ Bandeja Giradisco C/usb  Audio-technica At-lp120xusb-bk - $ 962.646 - Existía ❌
+❌ Audio-technica At-lp140xp-bk Dj Profesional Con Transmisión - $ 1.010.021 - Existía ❌
+❌ Tocadiscos Tornamesa Negro Audio Technica At-lp120xusb-bk - $ 839.814 - Existía ❌
+❌ Bandeja Vinillos Audio Technica At-lp120xusb Nueva En Avalon - $ 839.815 - Existía ❌
+❌ Bandeja Giradisco Audio Technica Lp120xusb - $ 839.814 - Existía ❌
+❌ Escala Pitch S/ Technics Sl-1200 Mk2 Mk3 Sl-1210 Mk4 Mk5 Mk6 - $ 26.990 - Existía ❌
+❌ Escala Pitch Technics Sl-1200 Negro Mk3 Sl-1210 Mk4 Mk5 Mk6 - $ 26.990 - Existía ❌
+❌ Bisagra Repuesto Para Audio Technica At-lp120 Usb - $ 13.432 - Existía ❌
+❌ Bandeja Giradiscos Audiotechnica At-lp120xusb Negro Almagro - $ 899.999 - Existía ❌
+❌ Audio Technica At-lp120x Usb Bandeja Vinilos Dj Direct Drive - $ 1.276.170 - Existía ❌
+❌ Bandeja Giradiscos Audiotechnica At-lpx120usb Negro Promo - $ 999.999 - Existía ❌
+❌ Bandeja Giradiscos Audiotechnica Lp120x Usb / En Belgrano! - $ 839.814 - Existía ❌
+❌ Bandeja Audiotechnica 120 Usb Caballito Tomamos Audio Usado - $ 10.000.000 - Existía ❌
+✅ Bandeja Vinillos Audio Technica At-lp120xusb Negra En Avalon - $ 839.815 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Bandeja De Tocadiscos Technics Sl-1700mkll - $ 48.290 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Vinillos Audio Technica At-lp120xbt-usb - $ 967.334 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Audio-technica - At-lp120xusb-bk - Bandeja Giradisco - $ 839.815 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Technics Sl-j120 - $ 54.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correas Para Tocadiscos Technics, Consulte Su Por Su Modelo - $ 55.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Technics Sl-230 - $ 54.290 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa De Transmisión Para Tocadiscos Technics Sl-fm1 - $ 54.290 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Bandeja De Tocadiscos Technics Sl-l20 - $ 54.290 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Technics Sl-bd22, Slbd22 - $ 55.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Technics Sl235 - $ 54.290 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Technics Sl-b101 - $ 54.290 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Technics Sl-1600mkll - $ 33.290 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Technics Sl-220 - $ 54.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Technics Sl-b303 - $ 54.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Sl-10 - $ 54.290 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Technics Sl-b100 - $ 54.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Correa Para Tocadiscos Technics Sl-221 - $ 60.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Technics Sl-1200mk7 Bandeja Giradisco Tracción Directa - $ 4.444.321 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Audio Technica At Lp-1240 Pitch 50% Torque 4,5k 3v - $ 2.021.352 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Audio Technica At-lp120 Xbt Usb T. Directa 33 45 - $ 1.529.996 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Audio-technica At Lp120 Xusb - Tocadiscos Usb - Directa 33 - $ 1.407.156 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Giradiscos Audio-technica At-lpw40wn - $ 851.347 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Technics Sl 1200 Mk2 Traba Brazo Repuesto Original En A V S - $ 51.200 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Technics Sl1210m5g . - $ 4.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Technics Sl-1200 Mk2 - $ 2.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Technics Sl 1200 Mk2 Muy Buen Estado Con Capsula - $ 2.450.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Reparación Mantenimiento De Bandeja Tocadisco Giradisco - $ 2.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Giradisco Technics Sl-5300 Full Automatica  Dabaudio - $ 600.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Dj Technics Sl-1200 Mk2 Negra (par) - $ 5.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Technics 1200 Mk2 Japan - $ 2.350.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Technics Sl 1200 Mk2 Japan Audio - $ 1.650.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Technics Sl1200mk3d C/cápsula,púa Stanton 680v3. - $ 3.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Technics Sl 1900 - $ 950.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Technics 1200 Mk 2 No Envios - $ 5.400.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Technics Sl D2 No Envió Galermoaudio - $ 770.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Bandeja Vinilos Technics 1200 Mk2 (japonesa) - $ 2.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+
+
+____________________________________
+
+
+🆕 Nuevos productos encontrados:
+
+Bandeja Vinillos Audio Technica At-lp120xusb Negra En Avalon - $ 839.815
+https://articulo.mercadolibre.com.ar/MLA-881343049-bandeja-vinillos-audio-technica-at-lp120xusb-negra-en-avalon-_JM?searchVariation=65068165848#polycard_client=search-nordic&searchVariation=65068165848&position=3&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Bandeja De Tocadiscos Technics Sl-1700mkll - $ 48.290
+https://articulo.mercadolibre.com.ar/MLA-1102302573-correa-para-bandeja-de-tocadiscos-technics-sl-1700mkll-_JM#polycard_client=search-nordic&position=4&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Vinillos Audio Technica At-lp120xbt-usb - $ 967.334
+https://articulo.mercadolibre.com.ar/MLA-1144185446-bandeja-vinillos-audio-technica-at-lp120xbt-usb-_JM?searchVariation=174705033762#polycard_client=search-nordic&searchVariation=174705033762&position=5&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Audio-technica - At-lp120xusb-bk - Bandeja Giradisco - $ 839.815
+https://articulo.mercadolibre.com.ar/MLA-1376003826-audio-technica-at-lp120xusb-bk-bandeja-giradisco-_JM#polycard_client=search-nordic&position=6&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Technics Sl-j120 - $ 54.900
+https://articulo.mercadolibre.com.ar/MLA-1675224498-correa-para-tocadiscos-technics-sl-j120-_JM?searchVariation=179861342900#polycard_client=search-nordic&searchVariation=179861342900&position=7&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correas Para Tocadiscos Technics, Consulte Su Por Su Modelo - $ 55.500
+https://articulo.mercadolibre.com.ar/MLA-1412654473-correas-para-tocadiscos-technics-consulte-su-por-su-modelo-_JM?searchVariation=179963867664#polycard_client=search-nordic&searchVariation=179963867664&position=8&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Technics Sl-230 - $ 54.290
+https://articulo.mercadolibre.com.ar/MLA-1139593503-correa-para-tocadiscos-technics-sl-230-_JM?searchVariation=174581122019#polycard_client=search-nordic&searchVariation=174581122019&position=9&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa De Transmisión Para Tocadiscos Technics Sl-fm1 - $ 54.290
+https://articulo.mercadolibre.com.ar/MLA-1156354231-correa-de-transmision-para-tocadiscos-technics-sl-fm1-_JM?searchVariation=175084863162#polycard_client=search-nordic&searchVariation=175084863162&position=10&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Bandeja De Tocadiscos Technics Sl-l20 - $ 54.290
+https://articulo.mercadolibre.com.ar/MLA-1103943095-correa-para-bandeja-de-tocadiscos-technics-sl-l20-_JM#polycard_client=search-nordic&position=11&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Technics Sl-bd22, Slbd22 - $ 55.500
+https://articulo.mercadolibre.com.ar/MLA-1417299141-correa-para-tocadiscos-technics-sl-bd22-slbd22-_JM?searchVariation=180139915620#polycard_client=search-nordic&searchVariation=180139915620&position=12&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Technics Sl235 - $ 54.290
+https://articulo.mercadolibre.com.ar/MLA-1114560473-correa-para-tocadiscos-technics-sl235-_JM#polycard_client=search-nordic&position=13&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Technics Sl-b101 - $ 54.290
+https://articulo.mercadolibre.com.ar/MLA-1121444095-correa-para-tocadiscos-technics-sl-b101-_JM#polycard_client=search-nordic&position=14&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Technics Sl-1600mkll - $ 33.290
+https://articulo.mercadolibre.com.ar/MLA-1134558900-correa-para-tocadiscos-technics-sl-1600mkll-_JM?searchVariation=174452916138#polycard_client=search-nordic&searchVariation=174452916138&position=15&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Technics Sl-220 - $ 54.000
+https://articulo.mercadolibre.com.ar/MLA-1434417120-correa-para-tocadiscos-technics-sl-220-_JM?searchVariation=178677772361#polycard_client=search-nordic&searchVariation=178677772361&position=16&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Technics Sl-b303 - $ 54.000
+https://articulo.mercadolibre.com.ar/MLA-1121476589-correa-para-tocadiscos-technics-sl-b303-_JM?searchVariation=174148003386#polycard_client=search-nordic&searchVariation=174148003386&position=17&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Sl-10 - $ 54.290
+https://articulo.mercadolibre.com.ar/MLA-1125832655-correa-para-tocadiscos-sl-10-_JM?searchVariation=174268834429#polycard_client=search-nordic&searchVariation=174268834429&position=18&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Technics Sl-b100 - $ 54.000
+https://articulo.mercadolibre.com.ar/MLA-1121450437-correa-para-tocadiscos-technics-sl-b100-_JM?searchVariation=174148229482#polycard_client=search-nordic&searchVariation=174148229482&position=19&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Correa Para Tocadiscos Technics Sl-221 - $ 60.900
+https://articulo.mercadolibre.com.ar/MLA-1805894636-correa-para-tocadiscos-technics-sl-221-_JM?searchVariation=180701929948#polycard_client=search-nordic&searchVariation=180701929948&position=20&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Technics Sl-1200mk7 Bandeja Giradisco Tracción Directa - $ 4.444.321
+https://articulo.mercadolibre.com.ar/MLA-1769977084-technics-sl-1200mk7-bandeja-giradisco-traccion-directa-_JM?searchVariation=182737432281#polycard_client=search-nordic&searchVariation=182737432281&position=21&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Audio Technica At Lp-1240 Pitch 50% Torque 4,5k 3v - $ 2.021.352
+https://articulo.mercadolibre.com.ar/MLA-1139472731-bandeja-audio-technica-at-lp-1240-pitch-50-torque-45k-3v-_JM#polycard_client=search-nordic&position=22&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Audio Technica At-lp120 Xbt Usb T. Directa 33 45 - $ 1.529.996
+https://articulo.mercadolibre.com.ar/MLA-1139495553-bandeja-audio-technica-at-lp120-xbt-usb-t-directa-33-45-_JM#polycard_client=search-nordic&position=23&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Audio-technica At Lp120 Xusb - Tocadiscos Usb - Directa 33 - $ 1.407.156
+https://articulo.mercadolibre.com.ar/MLA-1139536572-audio-technica-at-lp120-xusb-tocadiscos-usb-directa-33-_JM#polycard_client=search-nordic&position=24&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Giradiscos Audio-technica At-lpw40wn - $ 851.347
+https://articulo.mercadolibre.com.ar/MLA-903114413-bandeja-giradiscos-audio-technica-at-lpw40wn-_JM?searchVariation=72284143667#polycard_client=search-nordic&searchVariation=72284143667&position=25&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Technics Sl 1200 Mk2 Traba Brazo Repuesto Original En A V S - $ 51.200
+https://articulo.mercadolibre.com.ar/MLA-724619871-technics-sl-1200-mk2-traba-brazo-repuesto-original-en-a-v-s-_JM?searchVariation=57944461988#polycard_client=search-nordic&searchVariation=57944461988&position=26&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Technics Sl1210m5g . - $ 4.000.000
+https://articulo.mercadolibre.com.ar/MLA-750358153-bandeja-technics-sl1210m5g--_JM?searchVariation=41964756176#polycard_client=search-nordic&searchVariation=41964756176&position=27&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Technics Sl-1200 Mk2 - $ 2.000.000
+https://articulo.mercadolibre.com.ar/MLA-1943820354-technics-sl-1200-mk2-_JM?searchVariation=185709719213#polycard_client=search-nordic&searchVariation=185709719213&position=28&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Technics Sl 1200 Mk2 Muy Buen Estado Con Capsula - $ 2.450.000
+https://articulo.mercadolibre.com.ar/MLA-1848632176-bandeja-technics-sl-1200-mk2-muy-buen-estado-con-capsula-_JM?searchVariation=183740926849#polycard_client=search-nordic&searchVariation=183740926849&position=29&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Reparación Mantenimiento De Bandeja Tocadisco Giradisco - $ 2.000
+https://articulo.mercadolibre.com.ar/MLA-1432838791-reparacion-mantenimiento-de-bandeja-tocadisco-giradisco-_JM?searchVariation=180734024100#polycard_client=search-nordic&searchVariation=180734024100&position=30&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Giradisco Technics Sl-5300 Full Automatica  Dabaudio - $ 600.000
+https://articulo.mercadolibre.com.ar/MLA-1462629571-bandeja-giradisco-technics-sl-5300-full-automatica-dabaudio-_JM?searchVariation=186175421289#polycard_client=search-nordic&searchVariation=186175421289&position=31&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Dj Technics Sl-1200 Mk2 Negra (par) - $ 5.000.000
+https://articulo.mercadolibre.com.ar/MLA-1975562214-bandeja-dj-technics-sl-1200-mk2-negra-par-_JM?searchVariation=186421413699#polycard_client=search-nordic&searchVariation=186421413699&position=32&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Technics 1200 Mk2 Japan - $ 2.350.000
+https://articulo.mercadolibre.com.ar/MLA-1938408562-bandeja-technics-1200-mk2-japan-_JM?searchVariation=181956732272#polycard_client=search-nordic&searchVariation=181956732272&position=33&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Technics Sl 1200 Mk2 Japan Audio - $ 1.650.000
+https://articulo.mercadolibre.com.ar/MLA-1467758665-bandeja-technics-sl-1200-mk2-japan-audio-_JM?searchVariation=186476327367#polycard_client=search-nordic&searchVariation=186476327367&position=34&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Technics Sl1200mk3d C/cápsula,púa Stanton 680v3. - $ 3.000.000
+https://articulo.mercadolibre.com.ar/MLA-754060154-bandeja-technics-sl1200mk3d-ccapsulapua-stanton-680v3-_JM?searchVariation=41964798838#polycard_client=search-nordic&searchVariation=41964798838&position=35&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Technics Sl 1900 - $ 950.000
+https://articulo.mercadolibre.com.ar/MLA-1942107116-bandeja-technics-sl-1900-_JM?searchVariation=185669316305#polycard_client=search-nordic&searchVariation=185669316305&position=36&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Technics 1200 Mk 2 No Envios - $ 5.400.000
+https://articulo.mercadolibre.com.ar/MLA-1949008080-bandeja-technics-1200-mk-2-no-envios-_JM?searchVariation=182086179076#polycard_client=search-nordic&searchVariation=182086179076&position=37&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Technics Sl D2 No Envió Galermoaudio - $ 770.000
+https://articulo.mercadolibre.com.ar/MLA-1955070096-bandeja-technics-sl-d2-no-envio-galermoaudio-_JM?searchVariation=182169045896#polycard_client=search-nordic&searchVariation=182169045896&position=38&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+Bandeja Vinilos Technics 1200 Mk2 (japonesa) - $ 2.000.000
+https://articulo.mercadolibre.com.ar/MLA-1973215760-bandeja-vinilos-technics-1200-mk2-japonesa-_JM?searchVariation=186355090001#polycard_client=search-nordic&searchVariation=186355090001&position=39&search_layout=stack&type=item&tracking_id=29c57c6e-e4be-4700-9749-26a76ee0c7b9
+
+____________________________________
