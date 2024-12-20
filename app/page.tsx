@@ -10,6 +10,7 @@ export default function Home() {
   const [error, setError] = useState('');
   const [showResults, setShowResults] = useState(false);
   const [previousSearches, setPreviousSearches] = useState<string[]>([]);
+  const [activeTab, setActiveTab] = useState<'logs' | 'results'>('logs');
 
   useEffect(() => {
     const loadPreviousSearches = async () => {
@@ -163,61 +164,87 @@ export default function Home() {
             backgroundColor: '#1e1e1e',
             borderRadius: '8px',
             border: '1px solid #4a4a4a',
-            padding: '16px',
-            overflowY: 'auto',
-            fontFamily: 'monospace',
-            fontSize: '14px',
-            marginTop: '20px',
-            marginBottom: '20px'
+            display: 'flex',
+            flexDirection: 'column'
           }}
         >
-          <div className="space-y-1">
-            {logs.length === 0 ? (
-              <div style={{ color: '#666', textAlign: 'center', marginTop: '16px' }}>
-                Los logs de la búsqueda aparecerán aquí...
+          <div style={{
+            display: 'flex',
+            borderBottom: '1px solid #4a4a4a',
+          }}>
+            <button
+              onClick={() => setActiveTab('logs')}
+              style={{
+                padding: '8px 16px',
+                backgroundColor: activeTab === 'logs' ? '#2d2d2d' : 'transparent',
+                color: activeTab === 'logs' ? '#fff' : '#666',
+                border: 'none',
+                borderRight: '1px solid #4a4a4a',
+                cursor: 'pointer',
+                transition: 'all 0.2s',
+                flex: 1,
+                fontSize: '14px'
+              }}
+            >
+              Logs
+            </button>
+            <button
+              onClick={() => setActiveTab('results')}
+              style={{
+                padding: '8px 16px',
+                backgroundColor: activeTab === 'results' ? '#2d2d2d' : 'transparent',
+                color: activeTab === 'results' ? '#fff' : '#666',
+                border: 'none',
+                borderLeft: '1px solid #4a4a4a',
+                cursor: 'pointer',
+                transition: 'all 0.2s',
+                flex: 1,
+                fontSize: '14px'
+              }}
+            >
+              Resultados
+            </button>
+          </div>
+
+          <div style={{
+            padding: '16px',
+            overflowY: 'auto',
+            flex: 1,
+            fontFamily: 'monospace',
+            fontSize: '14px'
+          }}>
+            {activeTab === 'logs' ? (
+              <div className="space-y-1">
+                {logs.length === 0 ? (
+                  <div style={{ color: '#666', textAlign: 'center', marginTop: '16px' }}>
+                    Los logs de la búsqueda aparecerán aquí...
+                  </div>
+                ) : (
+                  logs.map((log, index) => (
+                    <div 
+                      key={index}
+                      style={{
+                        color: log.includes('PUBLICACIÓN NUEVA') 
+                          ? '#4ade80'
+                          : log.includes('Error')
+                          ? '#f87171'
+                          : log.includes('🌐')
+                          ? '#60a5fa'
+                          : log.includes('📦')
+                          ? '#c084fc'
+                          : '#d1d5db'
+                      }}
+                    >
+                      {log.replace('data: ', '')}
+                    </div>
+                  ))
+                )}
               </div>
             ) : (
-              logs.map((log, index) => (
-                <div 
-                  key={index}
-                  style={{
-                    color: log.includes('PUBLICACIÓN NUEVA') 
-                      ? '#4ade80'
-                      : log.includes('Error')
-                      ? '#f87171'
-                      : log.includes('🌐')
-                      ? '#60a5fa'
-                      : log.includes('📦')
-                      ? '#c084fc'
-                      : '#d1d5db'
-                  }}
-                >
-                  {log.replace('data: ', '')}
-                </div>
-              ))
+              showResults && <Results />
             )}
           </div>
         </div>
-
-        {showResults && (
-          <div 
-            style={{
-              width: '800px',
-              height: '300px',
-              backgroundColor: '#1e1e1e',
-              borderRadius: '8px',
-              border: '1px solid #4a4a4a',
-              padding: '16px',
-              overflowY: 'auto',
-              fontFamily: 'monospace',
-              fontSize: '14px',
-              marginTop: '20px',
-              marginBottom: '20px'
-            }}
-          >
-            <Results />
-          </div>
-        )}
 
         {error && (
           <div className="mt-8 bg-red-900/50 border border-red-500 text-red-200 px-4 py-3 rounded">
