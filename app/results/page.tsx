@@ -77,36 +77,58 @@ export default function Results() {
     <div className="space-y-4">
       <div className="flex justify-between items-center text-sm">
         <div className="p-2 bg-gray-800/50 rounded">
-          <span className="text-gray-400">Búsqueda previa ({results.previousResults.date}):</span>{' '}
-          <span className="text-purple-400 font-bold">{results.previousResults.count}</span>
+          <span style={{ color: '#D3D3D3', fontWeight: 800 }}>Búsqueda previa</span>{' '}
+          <span style={{ color: '#969696' }}>({results.previousResults.date}):</span>{' '}
+          <span className="text-purple-400" style={{ fontWeight: 800 }}>{results.previousResults.count}</span>
         </div>
         <div className="p-2 bg-gray-800/50 rounded">
-          <span className="text-gray-400">Nueva búsqueda ({results.currentResults.date}):</span>{' '}
-          <span className="text-purple-400 font-bold">{results.currentResults.count}</span>
+          <span style={{ color: '#D3D3D3', fontWeight: 800 }}>Búsqueda nueva</span>{' '}
+          <span style={{ color: '#969696' }}>({results.currentResults.date}):</span>{' '}
+          <span className="text-purple-400" style={{ fontWeight: 800 }}>{results.currentResults.count}</span>
         </div>
       </div>
 
       <div className="space-y-2">
-        <div className="text-sm text-purple-400 font-bold">Productos nuevos:</div>
-        {results.newProducts.map((product, index) => (
-          <div 
-            key={index} 
-            className="flex items-center justify-between p-2 bg-gray-800/30 rounded text-sm hover:bg-gray-800/50 transition-colors"
-          >
-            <span className="text-white flex-1 truncate mr-2">{product.titulo}</span>
-            <span className="text-green-400 mx-2 whitespace-nowrap">
-              $ {product.precio}
-            </span>
-            <a 
-              href={product.enlace}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="px-2 py-1 bg-purple-600 text-white rounded hover:bg-purple-500 transition-colors text-xs"
+        <div style={{ 
+          fontSize: '0.875rem',
+          color: '#D3D3D3',
+          fontWeight: 800,
+          marginTop: '10px',
+          marginBottom: '4px'
+        }}>
+          Productos nuevos:
+        </div>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
+          {results.newProducts.map((product, index) => (
+            <div 
+              key={index} 
+              className="flex items-center text-sm hover:bg-gray-800/50 transition-colors p-2 bg-gray-800/30 rounded"
             >
-              Link
-            </a>
-          </div>
-        ))}
+              <a 
+                href={product.enlace}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  backgroundColor: '#443a91',
+                  color: 'white',
+                  padding: '2px 8px',
+                  borderRadius: '4px',
+                  transition: 'background-color 0.2s'
+                }}
+                onMouseOver={(e) => e.currentTarget.style.backgroundColor = '#7d3ff8'}
+                onMouseOut={(e) => e.currentTarget.style.backgroundColor = '#443a91'}
+              >
+                Link
+              </a>
+              <span className="mx-2 text-gray-400"> | </span>
+              <span className="text-green-400 whitespace-nowrap">
+                $ {product.precio}
+              </span>
+              <span className="mx-2 text-gray-400"> | </span>
+              <span className="text-white flex-1">{product.titulo}</span>
+            </div>
+          ))}
+        </div>
       </div>
     </div>
   );

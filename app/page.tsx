@@ -210,8 +210,8 @@ export default function Home() {
             padding: '16px',
             overflowY: 'auto',
             flex: 1,
-            fontFamily: 'monospace',
-            fontSize: '14px'
+            fontSize: '14px',
+            fontFamily: 'system-ui, -apple-system, sans-serif'
           }}>
             {activeTab === 'results' ? (
               showResults ? (
@@ -222,7 +222,7 @@ export default function Home() {
                 </div>
               )
             ) : (
-              <div className="space-y-1">
+              <div style={{ fontFamily: 'monospace' }} className="space-y-1">
                 {logs.length === 0 ? (
                   <div style={{ color: '#666', textAlign: 'center', marginTop: '16px' }}>
                     Los logs de la búsqueda aparecerán aquí...
