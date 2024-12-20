@@ -5,8 +5,8 @@
 :root {
   --background-color: #1e1e1e;
   --text-color: #b0b0b0;
-  --button-color: #7c3aed;
-  --button-hover: #8b5cf6;
+  --button-color: #443a91;
+  --button-hover: #7d3ff8;
 }
 
 html, body {
@@ -31,4 +31,18 @@ html, body {
 
 .input-dark::placeholder {
   color: #6b7280;
+}
+
+/* Estilos para el dropdown */
+select option:hover,
+select option:focus,
+select option:active,
+select option:checked {
+  background-color: var(--button-color) !important;
+  color: white !important;
+}
+
+/* Para asegurar que el fondo del option seleccionado también tenga el color correcto */
+select option:checked {
+  background: var(--button-color) !important;
 } 

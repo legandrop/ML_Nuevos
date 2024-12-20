@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Results from './results/page';
 
 export default function Home() {
@@ -9,6 +9,28 @@ export default function Home() {
   const [isSearching, setIsSearching] = useState(false);
   const [error, setError] = useState('');
   const [showResults, setShowResults] = useState(false);
+  const [previousSearches, setPreviousSearches] = useState<string[]>([]);
+
+  useEffect(() => {
+    const loadPreviousSearches = async () => {
+      try {
+        const response = await fetch('/api/previous-searches');
+        if (response.ok) {
+          const searches = await response.json();
+          setPreviousSearches(searches);
+        }
+      } catch (error) {
+        console.error('Error al cargar búsquedas previas:', error);
+      }
+    };
+
+    loadPreviousSearches();
+  }, []);
+
+  const handleSelectPreviousSearch = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    setSearchTerm(e.target.value);
+    e.target.value = '';
+  };
 
   const handleSearch = async () => {
     if (!searchTerm.trim()) return;
@@ -70,13 +92,46 @@ export default function Home() {
       left: '50%',
       transform: 'translate(-50%, -50%)',
     }}>
-      <div style={{ display: 'flex', gap: '24px' }}>
-        <input
-          type="text"
-          value={searchTerm}
-          onChange={(e) => setSearchTerm(e.target.value)}
-          onKeyPress={handleKeyPress}
-          placeholder="Ej: Toyota Corolla Cross"
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+        <div style={{ display: 'flex', gap: '24px' }}>
+          <input
+            type="text"
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            onKeyPress={handleKeyPress}
+            placeholder="Busqueda en mercado libre..."
+            style={{
+              width: '300px',
+              padding: '12px',
+              borderRadius: '8px',
+              backgroundColor: '#2d2d2d',
+              color: 'white',
+              outline: 'none',
+              border: 'none'
+            }}
+            disabled={isSearching}
+          />
+          <button
+            onClick={handleSearch}
+            style={{
+              padding: '12px 24px',
+              backgroundColor: '#443a91',
+              color: 'white',
+              borderRadius: '12px',
+              border: 'none',
+              cursor: 'pointer',
+              transition: 'background-color 0.2s'
+            }}
+            onMouseOver={(e) => e.currentTarget.style.backgroundColor = '#7d3ff8'}
+            onMouseOut={(e) => e.currentTarget.style.backgroundColor = '#443a91'}
+            disabled={isSearching}
+          >
+            {isSearching ? 'Buscando...' : 'Buscar'}
+          </button>
+        </div>
+
+        <select
+          onChange={handleSelectPreviousSearch}
           style={{
             width: '300px',
             padding: '12px',
@@ -84,27 +139,23 @@ export default function Home() {
             backgroundColor: '#2d2d2d',
             color: 'white',
             outline: 'none',
-            border: 'none'
-          }}
-          disabled={isSearching}
-        />
-        <button
-          onClick={handleSearch}
-          style={{
-            padding: '12px 24px',
-            backgroundColor: '#8b5cf6',
-            color: 'white',
-            borderRadius: '12px',
             border: 'none',
-            cursor: 'pointer',
-            transition: 'background-color 0.2s'
+            paddingRight: '35px',
+            appearance: 'none',
+            backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e")`,
+            backgroundRepeat: 'no-repeat',
+            backgroundPosition: 'right 12px center',
+            backgroundSize: '20px'
           }}
-          onMouseOver={(e) => e.currentTarget.style.backgroundColor = '#7c3aed'}
-          onMouseOut={(e) => e.currentTarget.style.backgroundColor = '#8b5cf6'}
-          disabled={isSearching}
+          value=""
         >
-          {isSearching ? 'Buscando...' : 'Buscar'}
-        </button>
+          <option value="">Seleccionar búsqueda previa</option>
+          {previousSearches.map((search, index) => (
+            <option key={index} value={search}>
+              {search}
+            </option>
+          ))}
+        </select>
       </div>
 
       {error && (
