@@ -1,1 +1,34 @@
- 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-color: #1e1e1e;
+  --text-color: #ffffff;
+  --button-color: #8b5cf6;
+  --button-hover: #7c3aed;
+}
+
+html, body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.input-dark {
+  background-color: #2d2d2d;
+  border: 1px solid #404040;
+  color: var(--text-color);
+}
+
+.input-dark:focus {
+  border-color: var(--button-color);
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(139, 92, 246, 0.2);
+}
+
+.input-dark::placeholder {
+  color: #6b7280;
+} 

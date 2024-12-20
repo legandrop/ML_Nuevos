@@ -1,14 +1,14 @@
 'use client';
 
 import { useState } from 'react';
-import { useRouter } from 'next/navigation';
+import Results from './results/page';
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState('');
   const [logs, setLogs] = useState<string[]>([]);
   const [isSearching, setIsSearching] = useState(false);
   const [error, setError] = useState('');
-  const router = useRouter();
+  const [showResults, setShowResults] = useState(false);
 
   const handleSearch = async () => {
     if (!searchTerm.trim()) return;
@@ -16,6 +16,7 @@ export default function Home() {
     setIsSearching(true);
     setLogs([]);
     setError('');
+    setShowResults(false);
 
     try {
       const response = await fetch('/api/scrape', {
@@ -45,8 +46,8 @@ export default function Home() {
         setLogs(prevLogs => [...prevLogs, ...lines.filter(line => line.trim())]);
       }
 
-      // Una vez terminado, navegar a la página de resultados
-      router.push('/results');
+      // En lugar de navegar, mostrar los resultados
+      setShowResults(true);
     } catch (error) {
       console.error('Error:', error);
       setError(error instanceof Error ? error.message : 'Error durante la búsqueda');
@@ -56,43 +57,54 @@ export default function Home() {
     }
   };
 
+  const handleKeyPress = (e: React.KeyboardEvent) => {
+    if (e.key === 'Enter') {
+      handleSearch();
+    }
+  };
+
   return (
-    <main className="min-h-screen p-8">
-      <div className="max-w-4xl mx-auto">
-        <h1 className="text-3xl font-bold mb-8">Buscador de Mercado Libre</h1>
-        
-        <div className="flex gap-4 mb-8">
-          <input
-            type="text"
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            placeholder="Ej: Toyota Corolla Cross"
-            className="flex-1 p-2 border rounded"
-            disabled={isSearching}
-          />
-          <button
-            onClick={handleSearch}
-            disabled={isSearching}
-            className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 disabled:bg-gray-400"
-          >
-            {isSearching ? 'Buscando...' : 'Buscar'}
-          </button>
+    <main className="min-h-screen flex items-center justify-center bg-[#1e1e1e]">
+      <div className="w-full max-w-4xl mx-auto p-8 space-y-8">
+        <div className="flex flex-col items-center space-y-8">
+          <h1 className="text-3xl font-bold text-white">Probando Otro</h1>
+          
+          <div className="w-full flex gap-4">
+            <input
+              type="text"
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              onKeyPress={handleKeyPress}
+              placeholder="Ej: Toyota Corolla Cross"
+              className="flex-1 p-3 rounded-md input-dark text-white placeholder-gray-400"
+              disabled={isSearching}
+            />
+            <button
+              onClick={handleSearch}
+              disabled={isSearching}
+              className="px-6 py-3 bg-[#8b5cf6] text-white rounded-md hover:bg-[#7c3aed] disabled:bg-opacity-50 disabled:cursor-not-allowed transition-colors"
+            >
+              {isSearching ? 'Buscando...' : 'Buscar'}
+            </button>
+          </div>
+
+          {error && (
+            <div className="w-full bg-red-900/50 border border-red-500 text-red-200 px-4 py-3 rounded">
+              {error}
+            </div>
+          )}
+
+          {logs.length > 0 && (
+            <div className="w-full bg-black/50 text-green-400 p-4 rounded font-mono whitespace-pre-wrap border border-gray-700">
+              {logs.map((log, index) => (
+                <div key={index}>{log.replace('data: ', '')}</div>
+              ))}
+            </div>
+          )}
+
+          {showResults && <Results />}
         </div>
-
-        {error && (
-          <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4">
-            {error}
-          </div>
-        )}
-
-        {logs.length > 0 && (
-          <div className="bg-black text-green-400 p-4 rounded font-mono whitespace-pre-wrap">
-            {logs.map((log, index) => (
-              <div key={index}>{log.replace('data: ', '')}</div>
-            ))}
-          </div>
-        )}
       </div>
     </main>
   );
-} 
+}
