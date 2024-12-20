@@ -37,7 +37,7 @@ def construir_url(busqueda, desde=None):
     Si 'desde' es None, construye la URL de la primera página.
     De lo contrario, construye la URL de las páginas siguientes utilizando el parámetro 'Desde'.
     """
-    busqueda_formateada = busqueda.replace(" ", "-")
+    busqueda_formateada = busqueda.replace(" ", "-").lower()
     if desde is None:
         # Primera página
         # URL con el formato: https://listado.mercadolibre.com.ar/toyota-corolla-cross#D[A:toyota%20corolla%20cross]
@@ -48,28 +48,33 @@ def construir_url(busqueda, desde=None):
         palabras = busqueda.split()
         marca = palabras[0].lower()
         modelo = '-'.join(palabras[1:]).lower()
-        return f"https://autos.mercadolibre.com.ar/{marca}/{modelo}/{busqueda_formateada}_Desde_{desde}_NoIndex_True"
+        return f"https://listado.mercadolibre.com.ar/{marca}-{modelo}-{busqueda_formateada}_Desde_{desde}_NoIndex_True"
 
 def scrape_productos(url):
     """
     Realiza el scraping de la página dada y extrae los productos.
+    Retorna una tupla (productos, next_url)
     """
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-                      " AppleWebKit/537.36 (KHTML, like Gecko)"
-                      " Chrome/85.0.4183.102 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Referer": "https://www.mercadolibre.com.ar/",
+        "Upgrade-Insecure-Requests": "1"
     }
+    
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()
     except requests.RequestException as e:
         print(f"❌ Error al acceder a la página: {e}")
-        return []
+        return [], None
 
     soup = BeautifulSoup(response.content, "html.parser")
     productos = []
     
-    # Indicador de inicio de scraping
     print("🔄 Scrapeando la página de Mercado Libre...")
     
     for item in soup.find_all("li", class_="ui-search-layout__item"):
@@ -86,7 +91,36 @@ def scrape_productos(url):
             })
         except Exception as e:
             continue
-    return eliminar_duplicados(productos)
+
+    # Buscar el enlace de la siguiente página
+    pagination = soup.find("ul", class_="ui-search-andes-pagination")
+    if pagination:
+        print("✅ Encontrada la sección de paginación")
+        next_button = pagination.find("li", class_="andes-pagination__button--next")
+        if next_button:
+            print("✅ Encontrado el botón siguiente")
+            next_link = next_button.find("a")
+            if next_link and "href" in next_link.attrs:
+                next_url = next_link["href"]
+                print(f"🔍 URL del botón siguiente: {next_url}")
+                return productos, next_url
+            else:
+                print("❌ No se encontró el enlace dentro del botón siguiente")
+        else:
+            print("❌ No se encontró el botón siguiente dentro de la paginación")
+    else:
+        print("❌ No se encontró la sección de paginación")
+        # Intentar buscar directamente el botón siguiente
+        next_button = soup.find("li", class_="andes-pagination__button--next")
+        if next_button:
+            print("✅ Encontrado el botón siguiente (búsqueda alternativa)")
+            next_link = next_button.find("a")
+            if next_link and "href" in next_link.attrs:
+                next_url = next_link["href"]
+                print(f"🔍 URL del botón siguiente: {next_url}")
+                return productos, next_url
+
+    return productos, None
 
 def eliminar_duplicados(productos):
     """
@@ -147,39 +181,31 @@ def imprimir_resumen_nuevos(nuevos_productos):
     print("____________________________________")
 
 def main():
-    # 1. Definir el término de búsqueda
     busqueda = SEARCH_TERM
-    
     print("🔍 Buscando productos en Mercado Libre...")
     
     all_productos = []
     
     # 2. Scrappear la primera página
-    url_first = construir_url(busqueda)
-    print(f"🌐 URL de búsqueda (primera página): {url_first}")
-    productos = scrape_productos(url_first)
-    print(f"📦 Se encontraron {len(productos)} productos únicos en la primera página.\n")
-    all_productos.extend(productos)
+    url = construir_url(busqueda)
+    print(f"🌐 URL de búsqueda (primera página): {url}")
     
-    if not productos:
-        print("❌ No se encontraron productos en la primera página. Terminando el script.")
-        return
-    
-    # 3. Iterar a través de las páginas siguientes
-    desde = 49  # Inicio desde 49 para la segunda página
     while True:
-        url = construir_url(busqueda, desde)
-        print(f"🌐 URL de búsqueda (desde {desde}): {url}")
-        productos = scrape_productos(url)
-        
+        productos, next_url = scrape_productos(url)
         if not productos:
             print("🔚 No se encontraron más productos. Finalizando scraping.")
             break
-        
-        print(f"📦 Se encontraron {len(productos)} productos únicos en la página con Desde_{desde}.\n")
+
+        productos = eliminar_duplicados(productos)
+        print(f"📦 Se encontraron {len(productos)} productos únicos en esta página.\n")
         all_productos.extend(productos)
-        
-        desde += 48  # Incrementar para la siguiente página
+
+        if not next_url:
+            print("🔚 No hay más páginas disponibles. Finalizando scraping.")
+            break
+
+        url = next_url
+        print(f"🌐 URL de búsqueda (siguiente página): {url}")
     
     # 4. Eliminar duplicados de todas las páginas scrapeadas
     all_productos = eliminar_duplicados(all_productos)
