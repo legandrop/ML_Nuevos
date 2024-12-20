@@ -64,21 +64,47 @@ def scrape_productos(url):
         "Pragma": "no-cache"
     }
     
-    # Agregar un delay aleatorio entre 1 y 3 segundos
-    time.sleep(1 + random.random() * 2)
+    # Aumentar el delay aleatorio entre 2 y 5 segundos
+    time.sleep(2 + random.random() * 3)
     
-    try:
-        # No codificar la URL completa, dejar que requests maneje la codificación
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-    except requests.RequestException as e:
-        print(f"❌ Error al acceder a la página: {e}")
-        print(f"🔍 URL intentada: {url}")
-        return [], None
+    max_intentos = 3
+    for intento in range(max_intentos):
+        try:
+            session = requests.Session()
+            response = session.get(url, headers=headers, timeout=10)
+            response.raise_for_status()
+            
+            # Verificar si fuimos redirigidos a una página de captcha o error
+            if "captcha" in response.url.lower() or "error" in response.url.lower():
+                print(f"⚠️ Intento {intento + 1}/{max_intentos}: Detectado captcha o página de error")
+                if intento < max_intentos - 1:
+                    time.sleep(5 + random.random() * 5)  # Esperar más tiempo entre intentos
+                    continue
+                return [], None
+                
+            return procesar_pagina(response)
+            
+        except requests.RequestException as e:
+            print(f"⚠️ Intento {intento + 1}/{max_intentos}: Error al acceder a la página: {e}")
+            if intento < max_intentos - 1:
+                time.sleep(5 + random.random() * 5)
+                continue
+            return [], None
+    
+    return [], None
 
+def procesar_pagina(response):
+    """
+    Procesa el contenido de la página y extrae productos y siguiente URL
+    """
     soup = BeautifulSoup(response.content, "html.parser")
     productos = []
     
+    # Verificar si la página está vacía o tiene contenido válido
+    if not soup.find_all("li", class_="ui-search-layout__item"):
+        print("⚠️ No se encontraron productos en la página")
+        return [], None
+        
     print("🔄 Scrapeando la página de Mercado Libre...")
     
     for item in soup.find_all("li", class_="ui-search-layout__item"):
