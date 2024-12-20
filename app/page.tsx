@@ -11,6 +11,8 @@ export default function Home() {
   const [showResults, setShowResults] = useState(false);
   const [previousSearches, setPreviousSearches] = useState<string[]>([]);
   const [activeTab, setActiveTab] = useState<'logs' | 'results'>('results');
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const [selectedSearch, setSelectedSearch] = useState('');
 
   useEffect(() => {
     const loadPreviousSearches = async () => {
@@ -28,9 +30,10 @@ export default function Home() {
     loadPreviousSearches();
   }, []);
 
-  const handleSelectPreviousSearch = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    setSearchTerm(e.target.value);
-    e.target.value = '';
+  const handleSelectPreviousSearch = (value: string) => {
+    setSearchTerm(value);
+    setSelectedSearch(value);
+    setIsDropdownOpen(false);
   };
 
   const handleSearch = async () => {
@@ -85,6 +88,66 @@ export default function Home() {
     }
   };
 
+  const handleDeleteSearch = async (searchTerm: string, e: React.MouseEvent) => {
+    e.stopPropagation();
+    
+    try {
+      const response = await fetch('/api/delete-search', {
+        method: 'DELETE',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ searchTerm }),
+      });
+
+      const data = await response.json();
+
+      if (response.ok) {
+        // Actualizar la lista de búsquedas previas
+        setPreviousSearches(prevSearches => 
+          prevSearches.filter(search => search !== searchTerm)
+        );
+        
+        // Agregar logs sobre los archivos eliminados
+        setLogs(prevLogs => [
+          ...prevLogs,
+          `🗑️ Eliminando búsqueda: ${searchTerm}`,
+          `📝 ${data.message}`,
+          ...data.deletedFiles.map((file: string) => `   📄 Eliminado: ${file}`)
+        ]);
+        
+        setIsDropdownOpen(false);
+      } else {
+        console.error('Error al eliminar la búsqueda:', data.error);
+        setLogs(prevLogs => [
+          ...prevLogs,
+          `❌ Error al eliminar búsqueda: ${data.error}`,
+          data.details ? `   📝 Detalles: ${data.details}` : ''
+        ]);
+      }
+    } catch (error) {
+      console.error('Error:', error);
+      setLogs(prevLogs => [
+        ...prevLogs,
+        `❌ Error al procesar la eliminación: ${error instanceof Error ? error.message : 'Error desconocido'}`
+      ]);
+    }
+  };
+
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      const dropdown = document.getElementById('search-dropdown');
+      if (dropdown && !dropdown.contains(event.target as Node)) {
+        setIsDropdownOpen(false);
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, []);
+
   return (
     <div style={{
       position: 'absolute',
@@ -130,32 +193,110 @@ export default function Home() {
           </button>
         </div>
 
-        <select
-          onChange={handleSelectPreviousSearch}
-          style={{
-            width: '300px',
-            padding: '12px',
-            borderRadius: '8px',
-            backgroundColor: '#2d2d2d',
-            color: 'white',
-            outline: 'none',
-            border: 'none',
-            paddingRight: '35px',
-            appearance: 'none',
-            backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e")`,
-            backgroundRepeat: 'no-repeat',
-            backgroundPosition: 'right 12px center',
-            backgroundSize: '20px'
-          }}
-          value=""
-        >
-          <option value="">Seleccionar búsqueda previa</option>
-          {previousSearches.map((search, index) => (
-            <option key={index} value={search}>
-              {search}
-            </option>
-          ))}
-        </select>
+        <div style={{ position: 'relative', width: '300px' }}>
+          <div
+            onClick={() => setIsDropdownOpen(!isDropdownOpen)}
+            style={{
+              width: '100%',
+              padding: '12px',
+              borderRadius: '8px',
+              backgroundColor: '#2d2d2d',
+              color: 'white',
+              cursor: 'pointer',
+              display: 'flex',
+              justifyContent: 'space-between',
+              alignItems: 'center'
+            }}
+          >
+            <span style={{ color: selectedSearch ? 'white' : '#6b7280' }}>
+              {selectedSearch || 'Seleccionar búsqueda previa'}
+            </span>
+            <svg
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="white"
+              style={{
+                transform: isDropdownOpen ? 'rotate(180deg)' : 'rotate(0)',
+                transition: 'transform 0.2s'
+              }}
+            >
+              <path d="M7 10l5 5 5-5z" />
+            </svg>
+          </div>
+
+          {isDropdownOpen && (
+            <div
+              id="search-dropdown"
+              style={{
+                position: 'absolute',
+                top: '100%',
+                left: 0,
+                right: 0,
+                backgroundColor: '#2d2d2d',
+                borderRadius: '8px',
+                marginTop: '4px',
+                maxHeight: '200px',
+                overflowY: 'auto',
+                zIndex: 1000,
+                border: '1px solid #4a4a4a'
+              }}
+            >
+              {previousSearches.map((search, index) => (
+                <div
+                  key={index}
+                  onMouseOver={(e) => e.currentTarget.style.backgroundColor = '#3d3d3d'}
+                  onMouseOut={(e) => e.currentTarget.style.backgroundColor = 'transparent'}
+                  style={{
+                    padding: '8px 12px',
+                    cursor: 'pointer',
+                    display: 'flex',
+                    justifyContent: 'space-between',
+                    alignItems: 'center',
+                    borderBottom: index < previousSearches.length - 1 ? '1px solid #4a4a4a' : 'none'
+                  }}
+                >
+                  <span
+                    onClick={() => handleSelectPreviousSearch(search)}
+                    style={{
+                      flex: 1,
+                      color: 'white'
+                    }}
+                  >
+                    {search}
+                  </span>
+                  <button
+                    onClick={(e) => handleDeleteSearch(search, e)}
+                    style={{
+                      backgroundColor: 'transparent',
+                      border: 'none',
+                      cursor: 'pointer',
+                      padding: '4px',
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'center'
+                    }}
+                  >
+                    <svg
+                      width="16"
+                      height="16"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="#ef4444"
+                      strokeWidth="2"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    >
+                      <circle cx="12" cy="12" r="10" />
+                      <line x1="15" y1="9" x2="9" y2="15" />
+                      <line x1="9" y1="9" x2="15" y2="15" />
+                    </svg>
+                  </button>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
 
         <div 
           style={{
