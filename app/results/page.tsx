@@ -18,10 +18,16 @@ export default function Results() {
       try {
         setLoading(true);
         const response = await fetch('/api/results');
+        const data = await response.json();
+        
+        if (response.status === 404) {
+          setError(data.message || 'No hay resultados disponibles');
+          return;
+        }
+        
         if (!response.ok) {
           throw new Error(`Error HTTP: ${response.status}`);
         }
-        const data = await response.json();
         
         // Verifica si data es un array
         if (Array.isArray(data)) {

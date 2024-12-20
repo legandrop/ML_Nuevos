@@ -7,7 +7,7 @@ export async function POST(request: Request) {
     const { searchTerm } = await request.json();
     
     // Asegurarse de que el script de Python existe
-    const pythonScript = path.join(process.cwd(), 'LGA_Scrapper.py');
+    const pythonScript = path.join(process.cwd(), 'src', 'backend', 'scripts', 'LGA_Scrapper.py');
     if (!require('fs').existsSync(pythonScript)) {
       throw new Error('Script de Python no encontrado');
     }

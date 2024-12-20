@@ -5,11 +5,11 @@ import path from 'path';
 
 export async function GET() {
   try {
-    const dataDir = path.join(process.cwd(), 'data');
+    const dataDir = path.join(process.cwd(), 'src', 'backend', 'data');
     
     // Crear el directorio si no existe
     if (!fs.existsSync(dataDir)) {
-      fs.mkdirSync(dataDir);
+      fs.mkdirSync(dataDir, { recursive: true });
     }
 
     // Buscar el archivo JSON más reciente en la carpeta data
@@ -17,7 +17,7 @@ export async function GET() {
     const files = glob.sync(pattern);
     
     if (files.length === 0) {
-      return NextResponse.json({ error: 'No hay resultados disponibles' }, { status: 404 });
+      return NextResponse.json({ message: 'No hay resultados disponibles. Realiza una búsqueda primero.' }, { status: 404 });
     }
 
     // Ordenar por fecha de modificación (más reciente primero)
