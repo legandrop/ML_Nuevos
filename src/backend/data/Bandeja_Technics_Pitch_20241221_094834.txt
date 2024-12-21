@@ -1,5 +1,5 @@
-📄 Archivo anterior encontrado: '/Users/leg4/Desktop/Codin/ML_Nuevos/src/backend/data/Bandeja_Technics_Pitch_20241220_190629.json'
-📦 Se encontraron 37 productos únicos en el JSON anterior.
+📄 Archivo anterior encontrado: '/Users/leg4/Desktop/Codin/MercadoTracker/src/backend/data/Bandeja_Technics_Pitch_20241220_200600.json'
+📦 Se encontraron 87 productos únicos en el JSON anterior.
 
 🔍 Comparando productos actuales con los anteriores...
 
@@ -15,10 +15,10 @@
 ❌ Correa De Transmisión Para Tocadiscos Technics Sl-fm1 - $ 54.290 - Existía ❌
 ❌ Correa Para Bandeja De Tocadiscos Technics Sl-l20 - $ 54.290 - Existía ❌
 ❌ Correa Para Tocadiscos Technics Sl-bd22, Slbd22 - $ 55.500 - Existía ❌
-❌ Correa Para Tocadiscos Technics Sl235 - $ 54.290 - Existía ❌
 ❌ Correa Para Tocadiscos Technics Sl-b101 - $ 54.290 - Existía ❌
 ❌ Correa Para Tocadiscos Technics Sl-1600mkll - $ 33.290 - Existía ❌
 ❌ Correa Para Tocadiscos Technics Sl-220 - $ 54.000 - Existía ❌
+❌ Correa Para Tocadiscos Technics Sl235 - $ 54.290 - Existía ❌
 ❌ Correa Para Tocadiscos Technics Sl-b303 - $ 54.000 - Existía ❌
 ❌ Correa Para Tocadiscos Sl-10 - $ 54.290 - Existía ❌
 ❌ Correa Para Tocadiscos Technics Sl-b100 - $ 54.000 - Existía ❌
@@ -48,3 +48,12 @@ ____________________________________
 🆕 Nuevos productos encontrados:
 
 ____________________________________
+🔍 Término de búsqueda formateado: Bandeja_Technics_Pitch
+📁 Archivos encontrados para esta búsqueda: 5
+   - Bandeja_Technics_Pitch_20241221_094834.json
+   - Bandeja_Technics_Pitch_20241220_190629.json
+   - Bandeja_Technics_Pitch_20241220_190653.json
+   - Bandeja_Technics_Pitch_20241220_190938.json
+   - Bandeja_Technics_Pitch_20241220_200600.json
+🗑️ Archivo antiguo eliminado: Bandeja_Technics_Pitch_20241220_190653.json
+🗑️ Archivo antiguo eliminado: Bandeja_Technics_Pitch_20241220_190629.json
