@@ -23,11 +23,13 @@ class Logger:
     """
     def __init__(self, filename):
         self.console = sys.stdout
-        self.log = open(filename, "w", encoding="utf-8")
+        self.log = open(filename, "w", encoding="utf-8", buffering=1)
 
     def write(self, message):
         self.console.write(message)
+        self.console.flush()
         self.log.write(message)
+        self.log.flush()
 
     def flush(self):
         self.console.flush()

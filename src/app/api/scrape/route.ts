@@ -12,14 +12,22 @@ export async function POST(request: Request) {
       throw new Error('Script de Python no encontrado');
     }
 
-    const pythonProcess = spawn('python3', [pythonScript, searchTerm]);
-    
-    const stream = new TransformStream();
+    const pythonProcess = spawn('python3', [pythonScript, searchTerm], {
+      stdio: ['inherit', 'pipe', 'pipe'],
+      env: { ...process.env, 'PYTHONUNBUFFERED': '1' }
+    });
+
+    const encoder = new TextEncoder();
+    const stream = new TransformStream({
+      transform(chunk, controller) {
+        controller.enqueue(encoder.encode(`data: ${chunk}\n\n`));
+      }
+    });
+
     const writer = stream.writable.getWriter();
-    
+
     pythonProcess.stdout.on('data', (data) => {
-      console.log('Python stdout:', data.toString());
-      writer.write(new TextEncoder().encode(`data: ${data}\n\n`));
+      writer.write(`${data}`);
     });
 
     pythonProcess.stderr.on('data', (data) => {
