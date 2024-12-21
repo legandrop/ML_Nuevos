@@ -1,5 +1,5 @@
-📄 Archivo anterior encontrado: '/Users/leg4/Desktop/Codin/ML_Nuevos/src/backend/data/Toyota_Corolla_Cross_Hibrido_20241220_190224.json'
-📦 Se encontraron 171 productos únicos en el JSON anterior.
+📄 Archivo anterior encontrado: '/Users/leg4/Desktop/Codin/ML_Nuevos/src/backend/data/Toyota_Corolla_Cross_Hibrido_20241220_205552.json'
+📦 Se encontraron 172 productos únicos en el JSON anterior.
 
 🔍 Comparando productos actuales con los anteriores...
 
@@ -20,6 +20,7 @@
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 31.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.900 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 46.500.000 - Existía ❌
+✅ Toyota Corolla Cross 1.8 Seg Ecvt - $ 36.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.000.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 48.500.000 - Existía ❌
@@ -53,7 +54,6 @@
 ❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 38.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 36.500.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.000.000 - Existía ❌
-❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 37.900.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 40.500.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 41.900.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.700.000 - Existía ❌
@@ -71,12 +71,13 @@
 ❌ Toyota Corolla Cross 1.8 Hybrid Xei Cvt 4x2 - $ 36.890.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 47.200.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 40.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 46.900 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt Hibrida - $ 43.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 39.160.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 41.210.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.990 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 45.370.000 - Existía ❌
-❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 35.310.000 - Existía ❌
+✅ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 35.060.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.600.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Xei Hv E-cvt - $ 39.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 45.240.000 - Existía ❌
@@ -134,7 +135,6 @@
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 72.000 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.999 - Existía ❌
 ❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.500 - Existía ❌
-❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 59.500 - Existía ❌
 ❌ Toyota Corolla Cross Xei 1.8 Hv - $ 33.900.000 - Existía ❌
 ❌ Toyota Corolla Cross Xei Hibrido - $ 39.596.000 - Existía ❌
 ❌ Toyota Corolla Cross Seg - $ 46.500.000 - Existía ❌
@@ -181,4 +181,21 @@ ____________________________________
 
 🆕 Nuevos productos encontrados:
 
+Toyota Corolla Cross 1.8 Seg Ecvt - $ 36.000
+https://auto.mercadolibre.com.ar/MLA-1468146053-toyota-corolla-cross-2023-18-seg-ecvt-_JM#polycard_client=search-nordic&position=25&search_layout=grid&type=item&tracking_id=276661fa-8401-4973-a971-64cf4096399a
+
+Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 35.060.000
+https://auto.mercadolibre.com.ar/MLA-1966635936-toyota-corolla-cross-18-hybrid-seg-cvt-4x2-_JM#polycard_client=search-nordic&position=7&search_layout=grid&type=item&tracking_id=0b53d46e-1435-4168-ae70-8ebb12f4510f
+
 ____________________________________
+🔍 Término de búsqueda formateado: Toyota_Corolla_Cross_Hibrido
+📁 Archivos encontrados para esta búsqueda: 6
+   - Toyota_Corolla_Cross_Hibrido_20241220_191021.json
+   - Toyota_Corolla_Cross_Hibrido_20241221_093435.json
+   - Toyota_Corolla_Cross_Hibrido_20241220_205336.json
+   - Toyota_Corolla_Cross_Hibrido_20241220_205552.json
+   - Toyota_Corolla_Cross_Hibrido_20241220_190803.json
+   - Toyota_Corolla_Cross_Hibrido_20241220_190224.json
+🗑️ Archivo antiguo eliminado: Toyota_Corolla_Cross_Hibrido_20241220_190803.json
+🗑️ Archivo antiguo eliminado: Toyota_Corolla_Cross_Hibrido_20241220_190224.json
+🗑️ Archivo antiguo eliminado: Toyota_Corolla_Cross_Hibrido_20241220_205552.json

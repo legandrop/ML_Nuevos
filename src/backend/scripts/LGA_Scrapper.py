@@ -227,6 +227,51 @@ def imprimir_resumen_nuevos(nuevos_productos):
         print(f"{producto['enlace']}\n")
     print("____________________________________")
 
+def limpiar_archivos_antiguos(busqueda):
+    """
+    Mantiene solo los 3 archivos JSON más recientes para una búsqueda específica.
+    """
+    busqueda_formateada = busqueda.replace(" ", "_")
+    patron = os.path.join(OUTPUT_DIR, "*.json")
+    archivos = glob.glob(patron)
+    
+    # Filtramos para asegurarnos de que coincida exactamente con el término de búsqueda
+    archivos_busqueda = []
+    for archivo in archivos:
+        nombre_base = os.path.basename(archivo)
+        # Extraemos el nombre base eliminando el patrón _YYYYMMDD_HHMMSS.json
+        nombre_sin_fecha = nombre_base.split('_20')[0]  # Corta en el año 20XX
+        
+        if nombre_sin_fecha == busqueda_formateada:
+            archivos_busqueda.append(archivo)
+    
+    # Debug: imprimir información
+    print(f"🔍 Término de búsqueda formateado: {busqueda_formateada}")
+    print(f"📁 Archivos encontrados para esta búsqueda: {len(archivos_busqueda)}")
+    for arch in archivos_busqueda:
+        print(f"   - {os.path.basename(arch)}")
+    
+    # Si hay 3 o menos archivos, no hacemos nada
+    if len(archivos_busqueda) <= 3:
+        return
+    
+    # Ordenamos los archivos por fecha de modificación (más reciente primero)
+    archivos_busqueda.sort(key=lambda x: os.path.getmtime(x), reverse=True)
+    
+    # Conservamos los 3 primeros y eliminamos el resto
+    archivos_a_eliminar = archivos_busqueda[3:]
+    
+    # Eliminamos los archivos y sus correspondientes .txt
+    for archivo in archivos_a_eliminar:
+        try:
+            os.remove(archivo)
+            txt_archivo = archivo.replace('.json', '.txt')
+            if os.path.exists(txt_archivo):
+                os.remove(txt_archivo)
+            print(f"🗑️ Archivo antiguo eliminado: {os.path.basename(archivo)}")
+        except Exception as e:
+            print(f"❌ Error al eliminar archivo {os.path.basename(archivo)}: {str(e)}")
+
 def main():
     busqueda = SEARCH_TERM
     print("🔍 Buscando productos en Mercado Libre...")
@@ -312,8 +357,8 @@ def main():
     
     imprimir_resumen_nuevos(nuevos_productos)
     
-    # Restaurar stdout
-    sys.stdout = sys.stdout.console
+    # Limpiar archivos antiguos al final
+    limpiar_archivos_antiguos(busqueda)
 
 if __name__ == "__main__":
     main()
