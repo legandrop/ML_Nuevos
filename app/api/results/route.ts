@@ -26,11 +26,7 @@ export async function GET() {
     
     // Obtener todos los archivos JSON
     const files = fs.readdirSync(dataDir)
-      .filter(file => file.endsWith('.json'))
-      .sort((a, b) => {
-        return fs.statSync(path.join(dataDir, b)).mtime.getTime() - 
-               fs.statSync(path.join(dataDir, a)).mtime.getTime();
-      });
+      .filter(file => file.endsWith('.json'));
 
     if (files.length === 0) {
       return NextResponse.json(
@@ -39,9 +35,32 @@ export async function GET() {
       );
     }
 
-    // Leer el archivo más reciente y el anterior
-    const currentFile = files[0];
-    const previousFile = files[1];
+    // Agrupar archivos por término de búsqueda
+    const filesBySearch = files.reduce((acc, file) => {
+      const searchTerm = file.split('_').slice(0, -2).join('_'); // Extrae el término de búsqueda
+      if (!acc[searchTerm]) {
+        acc[searchTerm] = [];
+      }
+      acc[searchTerm].push(file);
+      return acc;
+    }, {} as Record<string, string[]>);
+
+    // Obtener el archivo más reciente
+    const currentFile = files.sort((a, b) => {
+      return fs.statSync(path.join(dataDir, b)).mtime.getTime() - 
+             fs.statSync(path.join(dataDir, a)).mtime.getTime();
+    })[0];
+
+    // Obtener el término de búsqueda del archivo actual
+    const currentSearchTerm = currentFile.split('_').slice(0, -2).join('_');
+
+    // Obtener el archivo anterior del mismo término de búsqueda
+    const previousFile = filesBySearch[currentSearchTerm]
+      .filter(file => file !== currentFile)
+      .sort((a, b) => {
+        return fs.statSync(path.join(dataDir, b)).mtime.getTime() - 
+               fs.statSync(path.join(dataDir, a)).mtime.getTime();
+      })[0];
 
     const currentData = JSON.parse(
       fs.readFileSync(path.join(dataDir, currentFile), 'utf-8')

@@ -1,0 +1,184 @@
+📄 Archivo anterior encontrado: '/Users/leg4/Desktop/Codin/ML_Nuevos/src/backend/data/Toyota_Corolla_Cross_Hibrido_20241220_190224.json'
+📦 Se encontraron 171 productos únicos en el JSON anterior.
+
+🔍 Comparando productos actuales con los anteriores...
+
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.899.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 49.899.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 46.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 43.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 41.700.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 45.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 36.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 37.990.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 39.596.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 31.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.900 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 46.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 48.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 40.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.550.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 48.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 37.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 40.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 40.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 46.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.195.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 49.599.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 40.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 29.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.200.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.890.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 36.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 46.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 37.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 44.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 34.900.000 - Existía ❌
+❌ Toyota Corolla Cross 2.0 Seg Cvt - $ 44.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 49.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Hev - $ 39.900 - Existía ❌
+❌ Toyota Corolla Corolla Cross Xei Hv 1.8 Cvt - $ 36.900.000 - Existía ❌
+❌ Toyota Corolla Corolla Cross Seg Hv 1.8 Cvt - $ 35.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 42.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 33.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 38.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 36.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 37.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 40.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 41.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.700.000 - Existía ❌
+❌ Toyota Corolla Cross Corolla Cross Hibrid - $ 41.999 - Existía ❌
+❌ Toyota Corolla Cross Xei Hev 1.8 Ecvt - $ 39.596.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 43.700.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 33.900.000 - Existía ❌
+❌ Toyota Corolla Cross Xei Hev Cvt 2025 - $ 40.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 35.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 46.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Hybrid Xei Cvt 4x2 - $ 36.890.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 47.200.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 40.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt Hibrida - $ 43.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 39.160.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 41.210.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.990 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 45.370.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 35.310.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.600.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Hv E-cvt - $ 39.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 45.240.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 36.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.900 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 37.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 9.299.999 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 50.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 31.900 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 40.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 45.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 49.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 48.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 33.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 34.999 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 35.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 36.000.000 - Existía ❌
+❌ Toyota Corolla 1.8 Hev Seg Ecvt - $ 44.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 74.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.000.000 - Existía ❌
+❌ Toyota Corolla Cross Hv 1.8seg Cvt My 2025 - $ 42.126.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.900.000 - Existía ❌
+❌ Toyota Corolla Cross Xei Hv 1.8 Cvt My 2025 - $ 39.809.000 - Existía ❌
+❌ Toyota Corolla Cross Seg Hibrida - $ 44.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.985.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.499.000 - Existía ❌
+❌ Toyota Corolla Cross Corolla Cross 1,8 Seg Híbrido - $ 45.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.500.000 - Existía ❌
+❌ Toyota Corolla Cross Xei Hv - $ 41.200.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 34.990 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.400.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 47.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 38.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 43.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 42.100.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 49.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 51.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 46.499.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.900.000 - Existía ❌
+❌ Toyota Corolla 1.8 Hev Seg Ecvt - $ 47.300.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Hibrido - $ 43.950.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 44.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 46.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 42.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 72.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.999 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 59.500 - Existía ❌
+❌ Toyota Corolla Cross Xei 1.8 Hv - $ 33.900.000 - Existía ❌
+❌ Toyota Corolla Cross Xei Hibrido - $ 39.596.000 - Existía ❌
+❌ Toyota Corolla Cross Seg - $ 46.500.000 - Existía ❌
+❌ Toyota Corolla Cross Hv 1.8 Xei E-cvt My 2025 - $ 39.809.000 - Existía ❌
+❌ Toyota Corolla Cross Cross Hibrido Xei - $ 40.821.000 - Existía ❌
+❌ Toyota Corolla Cross Hv 1.8 Xei Cvt My 2025 - $ 38.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt Híbrido - $ 49.900.000 - Existía ❌
+❌ Toyota Corolla Cross Xei Hv Ecvt 1.8 - $ 38.400.000 - Existía ❌
+❌ Toyota Corolla Cross Seg Hv - $ 45.500.000 - Existía ❌
+❌ Toyota Corolla Cross Hv 1.8 Xei Cvt My 2025 - $ 38.300.000 - Existía ❌
+❌ Toyota Corolla Cross Xei Hibrido - $ 44.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 46.978.500 - Existía ❌
+❌ Toyota Corolla 1.8 Hev Xei Ecvt - $ 37.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 43.800.000 - Existía ❌
+❌ Toyota Corolla Cross Seg 1.8 Hibrida - $ 45.985.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 36.400.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 31.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 37.700.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 34.400.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.800 - Existía ❌
+❌ Toyota Corolla 1.8 Hev Seg Ecvt - $ 39.000.000 - Existía ❌
+❌ Toyota Corolla 1.8 Hev Xei Ecvt - $ 39.500 - Existía ❌
+❌ Toyota Corolla Cross Xei Hev 1.8 Ecvt - $ 36.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 38.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 34.000.000 - Existía ❌
+❌ Toyota Corolla Cross Seg Hev 1,8 Ecvt - $ 43.900.000 - Existía ❌
+❌ Toyota Corolla Cross Seg H - Cvt - $ 36.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 36.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 32.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.990 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 40.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 48.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 37.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 20.205.600 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 34.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 35.400 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.500.000 - Existía ❌
+
+
+____________________________________
+
+
+🆕 Nuevos productos encontrados:
+
+____________________________________

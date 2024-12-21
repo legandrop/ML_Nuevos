@@ -1,0 +1,1085 @@
+📄 Archivo anterior encontrado: '/Users/leg4/Desktop/Codin/ML_Nuevos/src/backend/data/Toyota_Corolla_Cross_Hibrido_20241220_191021.json'
+📦 Se encontraron 172 productos únicos en el JSON anterior.
+
+🔍 Comparando productos actuales con los anteriores...
+
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 36.332.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 37.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.899.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.500.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 34.990.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 23.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.800.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 36.400.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 31.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 49.899.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 41.899.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 46.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 43.314.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 43.500.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 31.700.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 33.989.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 36.332.007 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 38.100.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 40.400.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 41.700.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 43.800.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 44.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 32.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 45.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 38.555.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 36.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 37.990.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 39.596.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 46.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 39.700.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 41.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 35.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 35.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 31.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 39.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.900 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 46.500.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 40.913.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 48.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 37.200.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 38.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 37.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 48.500.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 37.456.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross Seg - $ 34.800.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 40.500 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 32.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 29.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 39.747.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 32.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 38.300.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 42.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.550.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 48.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 37.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 40.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 40.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 46.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.195.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 37.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 40.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 49.599.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 41.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 43.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 40.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 32.488.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 29.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.500.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 41.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 44.899.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 43.300.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 47.955.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.200.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 38.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 34.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 43.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.890.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 37.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 40.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 34.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 42.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 36.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 44.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 8.999.999 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 44.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 36.500.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 43.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 46.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 37.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 45.600.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 44.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 34.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 37.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 2.0 Seg Cvt - $ 44.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 49.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 33.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Hev - $ 39.900 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 39.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 42.800.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 33.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 38.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 32.400.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 41.800.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 33.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 36.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 32.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 34.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 38.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 38.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 35.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 36.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 36.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 37.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 40.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 41.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.700.000 - Existía ❌
+❌ Toyota Corolla Cross Corolla Cross Hibrid - $ 41.999 - Existía ❌
+❌ Toyota Corolla Cross Xei Hev 1.8 Ecvt - $ 39.596.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 41.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 43.700.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 42.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 33.900.000 - Existía ❌
+❌ Toyota Corolla Cross Xei Hev Cvt 2025 - $ 40.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.000 - Existía ❌
+✅ Toyota Corolla Cross Xli 2.0 Cvt - $ 36.332.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 39.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 35.900.000 - Existía ❌
+✅ Toyota Corolla Cross Corolla Cross Gr - $ 44.800 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 32.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 41.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 35.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross Grs - $ 39.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 31.870.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.500 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 28.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 32.450.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 34.999.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 34.999.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 39.990 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 42.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 38.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt 4x2 - $ 32.550.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 46.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Hybrid Xei Cvt 4x2 - $ 36.890.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 42.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 47.200.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 35.499 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 40.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 46.900 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 32.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 42.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt Hibrida - $ 43.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 39.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 39.600.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 30.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 39.160.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 41.210.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.990 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 32.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 43.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 44.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt 4x2 - $ 34.520.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt 4x2 - $ 40.810.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 34.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 45.370.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 47.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 45.100.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 35.310.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 36.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.600.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 43.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Hv E-cvt - $ 39.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 33.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt Techo/cuero - $ 31.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Hybrid Seg Cvt 4x2 - $ 45.240.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 40.700.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 34.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 38.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 42.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 36.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 35.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 32.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.900 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 34.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 45.800.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 48.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 32.700 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 39.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 37.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 33.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 42.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 46.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 9.299.999 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.500.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 37.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 46.290.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 43.490.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 50.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 39.800.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.500 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 49.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 36.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 44.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 31.900 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 40.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 45.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 44.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 49.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 48.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 35.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 72.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 38.200.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 38.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 43.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 33.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 34.800.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 47.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 34.999 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 35.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 41.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 36.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 45.305.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 47.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 74.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 34.300.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 44.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross Hv 1.8seg Cvt My 2025 - $ 42.126.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 43.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross Xei Hv 1.8 Cvt My 2025 - $ 39.809.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 35.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 44.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 35.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 38.700.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 36.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.985.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.499.000 - Existía ❌
+❌ Toyota Corolla Cross Corolla Cross 1,8 Seg Híbrido - $ 45.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.500.000 - Existía ❌
+❌ Toyota Corolla Cross Xei Hv - $ 41.200.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 34.999.990 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 38.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 34.990 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 38.300.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 33.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.400.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 36.489.990 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 32.950 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 32.449.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 41.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 43.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 40.910.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 1.8 Seg Hev 1.8 Ecvt - $ 38.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 47.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 33.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 47.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 45.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 44.613.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 34.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 36.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 38.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 31.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 43.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 38.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 41.800.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 42.100.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 33.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 46.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 49.500.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 30.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 51.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 46.499.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 50.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 1.8 Seg Hev - $ 45.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 43.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 40.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 45.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 35.600.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 29.700 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 45.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 46.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Hibrido - $ 43.950.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 46.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 48.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 44.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 39.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 46.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 42.000 - Existía ❌
+✅ Toyota Corolla Cross Seg Hev 1.8 Ecvt - $ 45.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 72.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 31.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.999 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.500 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 59.500 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 35.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 41.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 38.700.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 34.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 33.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 31.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 35.700.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross Xei 1.8 Hv - $ 33.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 59.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross Xei Hibrido - $ 39.596.000 - Existía ❌
+❌ Toyota Corolla Cross Seg - $ 46.500.000 - Existía ❌
+❌ Toyota Corolla Cross Hv 1.8 Xei E-cvt My 2025 - $ 39.809.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 43.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross Cross Hibrido Xei - $ 40.821.000 - Existía ❌
+❌ Toyota Corolla Cross Hv 1.8 Xei Cvt My 2025 - $ 38.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt Híbrido - $ 49.900.000 - Existía ❌
+❌ Toyota Corolla Cross Xei Hv Ecvt 1.8 - $ 38.400.000 - Existía ❌
+❌ Toyota Corolla Cross Seg Hv - $ 45.500.000 - Existía ❌
+❌ Toyota Corolla Cross Hv 1.8 Xei Cvt My 2025 - $ 38.300.000 - Existía ❌
+❌ Toyota Corolla Cross Xei Hibrido - $ 44.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 42.250.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 38.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei - $ 37.800.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 46.978.500 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 42.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 42.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 42.445.148 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 39.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 37.800.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross Seg 2.0 Cvt - $ 43.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 39.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 43.800.000 - Existía ❌
+❌ Toyota Corolla Cross Seg 1.8 Hibrida - $ 45.985.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 36.400.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 31.900.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 37.700.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 33.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 40.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 34.400.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.800 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 37.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross Xei Hev 1.8 Ecvt - $ 36.500.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 41.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 39.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 38.000.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 34.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 37.500.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross Seg Hev 1,8 Ecvt - $ 43.900.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 31.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 31.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross Seg H - Cvt - $ 36.800.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 36.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 32.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 32.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 32.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 36.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 39.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 31.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 31.999 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 34.900 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 34.900.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 28.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 39.990 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 40.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 48.500.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 37.500.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 39.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 38.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 34.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 45.000.000 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 37.000.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 45.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 36.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 42.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Xei Ecvt - $ 20.205.600 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xli Cvt - $ 36.295.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 34.000 - Existía ❌
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 35.400 - Existía ❌
+✅ Toyota Corolla Cross 2.0 Xei Cvt - $ 20.930.000 - PUBLICACIÓN NUEVA!!! ✅✅✅
+✅ Toyota Corolla Cross 2.0 Seg Cvt - $ 29.500 - PUBLICACIÓN NUEVA!!! ✅✅✅
+❌ Toyota Corolla Cross 1.8 Seg Ecvt - $ 41.500.000 - Existía ❌
+
+
+____________________________________
+
+
+🆕 Nuevos productos encontrados:
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 36.332.000
+https://auto.mercadolibre.com.ar/MLA-1467216263-corolla-cross-xli-20-no-nivus-taos-kicks-territory-_JM#polycard_client=search-nordic&position=1&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 37.000.000
+https://auto.mercadolibre.com.ar/MLA-1980288390-toyotacorolla-cross-20-xei-cvt-uct-no-nissan-ford-b-_JM#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 34.990.900
+https://auto.mercadolibre.com.ar/MLA-1977287966-toyota-corolla-cross-xei-cvt-ano-2021-so-_JM#polycard_client=search-nordic&position=6&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 23.000
+https://auto.mercadolibre.com.ar/MLA-1975459474-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=7&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 36.400.000
+https://auto.mercadolibre.com.ar/MLA-1973761002-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=9&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 31.500.000
+https://auto.mercadolibre.com.ar/MLA-1971345924-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=12&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 41.899.000
+https://auto.mercadolibre.com.ar/MLA-1969551344-toyota-corolla-cross-seg-20-cvt-21000km-2022-_JM#polycard_client=search-nordic&position=14&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 43.314.000
+https://auto.mercadolibre.com.ar/MLA-1462076095-toyota-corolla-cross-gr-sport-20-cvt-_JM#polycard_client=search-nordic&position=19&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 31.700.000
+https://auto.mercadolibre.com.ar/MLA-1953237966-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=23&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 33.989.900
+https://auto.mercadolibre.com.ar/MLA-1468193323-toyota-corolla-cross-2022-20-xli-cvt-no-seg-hybrid-2023-18-_JM#polycard_client=search-nordic&position=24&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 36.332.007
+https://auto.mercadolibre.com.ar/MLA-1457684365-toyota-corolla-cross-xli-20-cvt-linea-nueva-en-stock-cr7-_JM#polycard_client=search-nordic&position=25&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 38.100.000
+https://auto.mercadolibre.com.ar/MLA-1937371626-toyota-corolla-cross-xli-0km-precio-full-autos-full-nuevo-b9-_JM#polycard_client=search-nordic&position=28&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 40.400.000
+https://auto.mercadolibre.com.ar/MLA-1455669071-toyota-corolla-cross-xei-0km-precio-nueva-full-autos-2025-b9-_JM#polycard_client=search-nordic&position=29&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 43.800.000
+https://auto.mercadolibre.com.ar/MLA-1937094726-toyota-corolla-cross-seg-0km-autos-full-nueva-precio-2025-b9-_JM#polycard_client=search-nordic&position=31&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 44.000.000
+https://auto.mercadolibre.com.ar/MLA-1937068766-toyota-corolla-cross-gr-sport-0km-precio-nueva-automatica-b9-_JM#polycard_client=search-nordic&position=33&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 32.500.000
+https://auto.mercadolibre.com.ar/MLA-1932978848-toyota-corolla-cross-xei-20-cvt-kicks-tracker-nivus-hrv-_JM#polycard_client=search-nordic&position=34&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 38.555.000
+https://auto.mercadolibre.com.ar/MLA-1437932405-corolla-cross-xei-20-cvt-dr-_JM#polycard_client=search-nordic&position=37&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 46.900.000
+https://auto.mercadolibre.com.ar/MLA-1456476915-toyota-corolla-cross-20-grs-cvt-170cv-_JM#polycard_client=search-nordic&position=47&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 39.700.000
+https://auto.mercadolibre.com.ar/MLA-1468165049-corolla-cross-gr-sport-20-cvt-usado-_JM#polycard_client=search-nordic&position=48&search_layout=grid&type=item&tracking_id=ffe0a283-1e62-4308-ac70-13d79d6df016
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 41.500.000
+https://auto.mercadolibre.com.ar/MLA-1982292244-corolla-cross-xli-20-cvt-my25-_JM#polycard_client=search-nordic&position=1&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 35.900
+https://auto.mercadolibre.com.ar/MLA-1969376116-toyota-corolla-cross-2023-con-opcionales-originales-_JM#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 35.000.000
+https://auto.mercadolibre.com.ar/MLA-1464755899-toyota-corolla-cross-xli-_JM#polycard_client=search-nordic&position=3&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 39.000
+https://auto.mercadolibre.com.ar/MLA-1463954905-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=5&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 40.913.000
+https://auto.mercadolibre.com.ar/MLA-1949180698-toyota-corolla-cross-seg-20-automatica-_JM#polycard_client=search-nordic&position=8&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 48.000.000
+https://auto.mercadolibre.com.ar/MLA-1904637708-toyota-corolla-cross-20-seg-cvt-banchik-multimarcas-_JM#polycard_client=search-nordic&position=9&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 37.200.000
+https://auto.mercadolibre.com.ar/MLA-1468115523-corolla-cross-gr-sport-20-cvt-usado-_JM#polycard_client=search-nordic&position=10&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 38.000.000
+https://auto.mercadolibre.com.ar/MLA-1976520318-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=12&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 37.000.000
+https://auto.mercadolibre.com.ar/MLA-1972193560-toyota-corolla-cross-xli-nafta-20-automatica-2025-stock-fis-_JM#polycard_client=search-nordic&position=13&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 37.456.000
+https://auto.mercadolibre.com.ar/MLA-1925146618-nueva-toyota-cross-xli-20-cvt-my-2025-mr-_JM#polycard_client=search-nordic&position=18&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross Seg - $ 34.800.000
+https://auto.mercadolibre.com.ar/MLA-1981276776-toyota-corolla-cross-seg-20-impecable-garantia-1ra-mano-_JM#polycard_client=search-nordic&position=19&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 32.000.000
+https://auto.mercadolibre.com.ar/MLA-1463982031-toyota-corolla-cross-xli-unica-mano-garantia-oficial-nueva-_JM#polycard_client=search-nordic&position=21&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 29.000.000
+https://auto.mercadolibre.com.ar/MLA-1982092234-corolla-cross-_JM#polycard_client=search-nordic&position=23&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 39.747.000
+https://auto.mercadolibre.com.ar/MLA-1940268634-toyota-corolla-cross-xei-cvt-_JM#polycard_client=search-nordic&position=24&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 32.000
+https://auto.mercadolibre.com.ar/MLA-1928220822-toyota-corolla-cross-20-grs-cvt-170cv-2023-_JM#polycard_client=search-nordic&position=25&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 38.300.000
+https://auto.mercadolibre.com.ar/MLA-1920037900-toyota-corolla-cross-20-seg-_JM#polycard_client=search-nordic&position=26&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 42.000.000
+https://auto.mercadolibre.com.ar/MLA-1898444596-toyota-corolla-cross-_JM#polycard_client=search-nordic&position=28&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 37.000
+https://auto.mercadolibre.com.ar/MLA-1974024688-toyota-corolla-cross-20-xli-cvt-2024-0km-_JM#polycard_client=search-nordic&position=39&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 40.500
+https://auto.mercadolibre.com.ar/MLA-1959818622-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=40&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 41.500.000
+https://auto.mercadolibre.com.ar/MLA-1919043784-toyota-corolla-cross-seg-20-0km-_JM#polycard_client=search-nordic&position=42&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 43.000.000
+https://auto.mercadolibre.com.ar/MLA-1464781763-toyota-corolla-cross-2024-20-seg-cvt-_JM#polycard_client=search-nordic&position=44&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 32.488.000
+https://auto.mercadolibre.com.ar/MLA-1465829275-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=47&search_layout=grid&type=item&tracking_id=f5300910-c72d-44d2-9ca2-34415ac275fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 41.900.000
+https://auto.mercadolibre.com.ar/MLA-1458360063-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 44.899.000
+https://auto.mercadolibre.com.ar/MLA-1456789823-toyota-corolla-cross-xei-full-20n-at-2023-_JM#polycard_client=search-nordic&position=3&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 43.300.000
+https://auto.mercadolibre.com.ar/MLA-1919069354-toyota-corolla-cross-gr-sport-0km-blanco-_JM#polycard_client=search-nordic&position=5&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 47.955.000
+https://auto.mercadolibre.com.ar/MLA-1462176727-toyota-corolla-cross-20-seg-cvt-2024-_JM#polycard_client=search-nordic&position=6&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 38.900.000
+https://auto.mercadolibre.com.ar/MLA-1958219296-toyota-corolla-cross-xei-cvt-ano2024-pats-rodar-retira-ya-_JM#polycard_client=search-nordic&position=8&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 34.500
+https://auto.mercadolibre.com.ar/MLA-1462612143-corolla-cross-seg-20-cvt-_JM#polycard_client=search-nordic&position=10&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 43.500.000
+https://auto.mercadolibre.com.ar/MLA-1983260392-toyotacorolla-cross-seg-20-cvt-tracker-kuga-kicks-hr-v-_JM#polycard_client=search-nordic&position=11&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 37.900.000
+https://auto.mercadolibre.com.ar/MLA-1975306096-toyota-corolla-cross-20-xli-cvt-2023-_JM#polycard_client=search-nordic&position=14&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 40.500.000
+https://auto.mercadolibre.com.ar/MLA-1953269320-lob-toyota-corolla-cross-seg-cvt-5p-20-n-2022-_JM#polycard_client=search-nordic&position=16&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 34.000.000
+https://auto.mercadolibre.com.ar/MLA-1953294478-toyota-corolla-cross-20-xli-cvt-2023-_JM#polycard_client=search-nordic&position=19&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 42.500
+https://auto.mercadolibre.com.ar/MLA-1968816602-toyota-corolla-cross-2024-20-seg-cvt-_JM#polycard_client=search-nordic&position=20&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 36.000
+https://auto.mercadolibre.com.ar/MLA-1965933028-toyota-corolla-cross-2024-20-xli-cvt-_JM#polycard_client=search-nordic&position=21&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 44.500.000
+https://auto.mercadolibre.com.ar/MLA-1965829856-toyota-corolla-cross-2024-20-grs-cvt-170cv-_JM#polycard_client=search-nordic&position=23&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 8.999.999
+https://auto.mercadolibre.com.ar/MLA-1982398216-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=24&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 44.000.000
+https://auto.mercadolibre.com.ar/MLA-1972047146-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=25&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 43.500.000
+https://auto.mercadolibre.com.ar/MLA-1969548194-toyota-corolla-cross-20-grs-cvt-170cv-_JM#polycard_client=search-nordic&position=28&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 45.600.000
+https://auto.mercadolibre.com.ar/MLA-1962642462-toyota-corolla-cross-2024-20-seg-cvt-_JM#polycard_client=search-nordic&position=32&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 37.900.000
+https://auto.mercadolibre.com.ar/MLA-1458332101-toyota-corolla-cross-seg-20-cvt-2022-_JM#polycard_client=search-nordic&position=39&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 33.500.000
+https://auto.mercadolibre.com.ar/MLA-1981330172-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=44&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 39.500
+https://auto.mercadolibre.com.ar/MLA-1465136175-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=47&search_layout=grid&type=item&tracking_id=fd80e71f-fc16-4b45-9d08-6ab1d5544384
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 33.900
+https://auto.mercadolibre.com.ar/MLA-1968874860-toyota-corolla-cross-2024-20-xli-cvt-_JM#polycard_client=search-nordic&position=1&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 38.900
+https://auto.mercadolibre.com.ar/MLA-1962667970-toyota-corolla-cross-xei-_JM#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 32.400.000
+https://auto.mercadolibre.com.ar/MLA-1983279240-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=3&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 41.800.000
+https://auto.mercadolibre.com.ar/MLA-1980246808-toyota-corolla-cross-20-grs-cvt-170cv-_JM#polycard_client=search-nordic&position=4&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 36.900.000
+https://auto.mercadolibre.com.ar/MLA-1981347940-toyota-corolla-cross-_JM#polycard_client=search-nordic&position=7&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 32.000
+https://auto.mercadolibre.com.ar/MLA-1969662678-toyota-corolla-cross-2023-20-xli-cvt-_JM#polycard_client=search-nordic&position=8&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 34.000
+https://auto.mercadolibre.com.ar/MLA-1463385819-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=9&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 38.000
+https://auto.mercadolibre.com.ar/MLA-1463392945-toyota-corolla-cross-2024-20-grs-cvt-170cv-_JM#polycard_client=search-nordic&position=11&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 35.000
+https://auto.mercadolibre.com.ar/MLA-1970293374-toyota-corolla-cross-2024-20-xli-cvt-_JM#polycard_client=search-nordic&position=12&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 36.000
+https://auto.mercadolibre.com.ar/MLA-1980972650-toyota-corolla-cross-20-grs-cvt-170cv-_JM#polycard_client=search-nordic&position=13&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 41.500.000
+https://auto.mercadolibre.com.ar/MLA-1974075018-toyota-cross-gr-sport-20-_JM#polycard_client=search-nordic&position=24&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 42.000
+https://auto.mercadolibre.com.ar/MLA-1464741897-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=26&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross Xli 2.0 Cvt - $ 36.332.000
+https://auto.mercadolibre.com.ar/MLA-1427768529-corolla-cross-xli-20-cvt-_JM#polycard_client=search-nordic&position=31&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 39.900.000
+https://auto.mercadolibre.com.ar/MLA-1464150445-toyota-corolla-cross-20-seg-cvt-2023-sarthou-_JM#polycard_client=search-nordic&position=34&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross Corolla Cross Gr - $ 44.800
+https://auto.mercadolibre.com.ar/MLA-1976976428-toyota-corolla-cross-corolla-cross-gr-_JM#polycard_client=search-nordic&position=38&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 32.500
+https://auto.mercadolibre.com.ar/MLA-1971237230-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=39&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 41.000
+https://auto.mercadolibre.com.ar/MLA-1983266226-toyota-corolla-cross-impecable-20000-km-_JM#polycard_client=search-nordic&position=41&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 35.500.000
+https://auto.mercadolibre.com.ar/MLA-1432222511-toyota-corolla-cross-2024-20-xli-cvt-_JM#polycard_client=search-nordic&position=42&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross Grs - $ 39.000.000
+https://auto.mercadolibre.com.ar/MLA-1464005667-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=45&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 31.870.900
+https://auto.mercadolibre.com.ar/MLA-1467410071-toyota-corolla-cross-xei-cvt-2021-0km-usada-gris-fr-_JM#polycard_client=search-nordic&position=46&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 28.500.000
+https://auto.mercadolibre.com.ar/MLA-1970306072-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=48&search_layout=grid&type=item&tracking_id=b820e20a-755d-4ae4-b616-666e26757674
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 32.450.000
+https://auto.mercadolibre.com.ar/MLA-1463866233-toyota-corolla-cross-cvt-ed-_JM#polycard_client=search-nordic&position=1&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 34.999.900
+https://auto.mercadolibre.com.ar/MLA-1969642042-toyota-corolla-cross-xei-cvt-2021-fh-_JM#polycard_client=search-nordic&position=3&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 34.999.500
+https://auto.mercadolibre.com.ar/MLA-1968466640-toyota-corolla-cross-xei-cvt-2021-mr-_JM#polycard_client=search-nordic&position=4&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 39.990
+https://auto.mercadolibre.com.ar/MLA-1458963011-corolla-cross-seg-2024-okm-linea-nuevapermuto-yoni-autos-_JM#polycard_client=search-nordic&position=5&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 42.500.000
+https://auto.mercadolibre.com.ar/MLA-1966669342-toyota-corolla-cross-2025-20-seg-cvt-_JM#polycard_client=search-nordic&position=6&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 38.000
+https://auto.mercadolibre.com.ar/MLA-1976327024-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=12&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt 4x2 - $ 32.550.000
+https://auto.mercadolibre.com.ar/MLA-1974135752-toyota-corolla-cross-20-seg-cvt-4x2-_JM#polycard_client=search-nordic&position=13&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 42.500.000
+https://auto.mercadolibre.com.ar/MLA-1461372325-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=17&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 35.499
+https://auto.mercadolibre.com.ar/MLA-1942646840-toyota-corolla-cross-2022-20-seg-cvt-_JM#polycard_client=search-nordic&position=20&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 32.000
+https://auto.mercadolibre.com.ar/MLA-1464047353-toyota-_JM#polycard_client=search-nordic&position=23&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 42.900.000
+https://auto.mercadolibre.com.ar/MLA-1967260306-toyota-corolla-cross-xli-20-cvt-2024-azul-traut-_JM#polycard_client=search-nordic&position=24&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 39.900.000
+https://auto.mercadolibre.com.ar/MLA-1949541236-toyota-corolla-cross-20-xli-cvt-2024-_JM#polycard_client=search-nordic&position=26&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 39.600.000
+https://auto.mercadolibre.com.ar/MLA-1897409482-toyota-corolla-cross-2022-20-seg-automatica-_JM#polycard_client=search-nordic&position=27&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 30.000.000
+https://auto.mercadolibre.com.ar/MLA-1982395652-corolla-xli-_JM#polycard_client=search-nordic&position=29&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 32.000.000
+https://auto.mercadolibre.com.ar/MLA-1464137917-toyota-corolla-cross-20-xei-cvt-2021-automotores-gps-_JM#polycard_client=search-nordic&position=34&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 43.900.000
+https://auto.mercadolibre.com.ar/MLA-1968539914-toyota-corolla-cross-xei-20-cvt-blanco-2024-traut-ln-my25-_JM#polycard_client=search-nordic&position=35&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 44.900.000
+https://auto.mercadolibre.com.ar/MLA-1966683440-toyota-corolla-cross-seg-cvt-at-2024-gris-oscuro-traut-_JM#polycard_client=search-nordic&position=36&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xli Cvt 4x2 - $ 34.520.000
+https://auto.mercadolibre.com.ar/MLA-1465397309-toyota-corolla-cross-20-xli-cvt-4x2-_JM#polycard_client=search-nordic&position=37&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt 4x2 - $ 40.810.000
+https://auto.mercadolibre.com.ar/MLA-1970303804-toyota-corolla-cross-20-seg-cvt-4x2-_JM#polycard_client=search-nordic&position=38&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 34.500.000
+https://auto.mercadolibre.com.ar/MLA-1461907377-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=39&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 47.000.000
+https://auto.mercadolibre.com.ar/MLA-1449231567-toyota-corolla-cross-_JM#polycard_client=search-nordic&position=41&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 45.100.000
+https://auto.mercadolibre.com.ar/MLA-1464090373-toyota-corolla-cross-20-seg-cvt-2024-_JM#polycard_client=search-nordic&position=43&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 36.500.000
+https://auto.mercadolibre.com.ar/MLA-1894697332-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=45&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 43.000
+https://auto.mercadolibre.com.ar/MLA-1974012058-toyota-corolla-cross-20-seg-cvt-2024-0km-_JM#polycard_client=search-nordic&position=47&search_layout=grid&type=item&tracking_id=a0412adb-1e7c-43cf-a194-141a9e0e6829
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 33.000
+https://auto.mercadolibre.com.ar/MLA-1462797297-toyota-corolla-cross-xei-cvt-2023-carps-_JM#polycard_client=search-nordic&position=1&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xei Cvt Techo/cuero - $ 31.500
+https://auto.mercadolibre.com.ar/MLA-1461888953-toyota-corolla-cross-20-xei-cvt-techocuero-_JM#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 40.700.000
+https://auto.mercadolibre.com.ar/MLA-1942822582-toyota-nueva-corolla-cross-20-xli-cvt-0km-my2024-_JM#polycard_client=search-nordic&position=5&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 34.000
+https://auto.mercadolibre.com.ar/MLA-1455330723-toyota-corolla-cross-20-seg-cvt-2023-_JM#polycard_client=search-nordic&position=6&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 38.000.000
+https://auto.mercadolibre.com.ar/MLA-1443983329-toyota-corolla-cross-20-xli-cvt-2024-_JM#polycard_client=search-nordic&position=8&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 42.900.000
+https://auto.mercadolibre.com.ar/MLA-1905705796-corolla-cross-seg-20-nafta-disponible-_JM#polycard_client=search-nordic&position=11&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 35.900.000
+https://auto.mercadolibre.com.ar/MLA-1465148193-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=13&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 32.500.000
+https://auto.mercadolibre.com.ar/MLA-1463873323-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=14&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 34.900.000
+https://auto.mercadolibre.com.ar/MLA-1455344849-toyota-corolla-cross-20-xli-cvt-2023-_JM#polycard_client=search-nordic&position=17&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 45.800.000
+https://auto.mercadolibre.com.ar/MLA-1929839112-toyota-corolla-cross-seg-20-_JM#polycard_client=search-nordic&position=18&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 48.500.000
+https://auto.mercadolibre.com.ar/MLA-1983103076-toyota-corolla-cross-20-seg-cvt-2024-_JM#polycard_client=search-nordic&position=20&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 32.700
+https://auto.mercadolibre.com.ar/MLA-1972447860-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=24&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 39.500
+https://auto.mercadolibre.com.ar/MLA-1870205668-toyota-corolla-cross-0km-2024-xli-cvt-entrega-inmediata--_JM#polycard_client=search-nordic&position=27&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 33.900.000
+https://auto.mercadolibre.com.ar/MLA-1975515542-corolla-cross-xei-20-cvt-_JM#polycard_client=search-nordic&position=29&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 42.000.000
+https://auto.mercadolibre.com.ar/MLA-1975932156-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=30&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 46.500.000
+https://auto.mercadolibre.com.ar/MLA-1446414309-toyota-corolla-cross-20-xei-cvt-0km-2024-_JM#polycard_client=search-nordic&position=31&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 37.500.000
+https://auto.mercadolibre.com.ar/MLA-1970288716-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=34&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 46.290.000
+https://auto.mercadolibre.com.ar/MLA-1911709848-toyota-corolla-cross-2024-20-xei-cvt-_JM#polycard_client=search-nordic&position=36&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 43.490.000
+https://auto.mercadolibre.com.ar/MLA-1450559107-toyota-corolla-cross-2024-20-xei-cvt-_JM#polycard_client=search-nordic&position=37&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 39.800.000
+https://auto.mercadolibre.com.ar/MLA-1463014281-toyota-corolla-cross-seg-cvt-_JM#polycard_client=search-nordic&position=40&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 49.500.000
+https://auto.mercadolibre.com.ar/MLA-1464975881-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=43&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 36.500.000
+https://auto.mercadolibre.com.ar/MLA-1975478856-corolla-cross-2023-_JM#polycard_client=search-nordic&position=44&search_layout=grid&type=item&tracking_id=af5224a9-9ab3-4c52-96a5-42bfbffe40a7
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 44.500
+https://auto.mercadolibre.com.ar/MLA-1452465699-toyota-corolla-cross-20-seg-at-vehiculosdeloeste-_JM#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 35.500
+https://auto.mercadolibre.com.ar/MLA-1450417487-toyota-corolla-cross-seg-at-cvt-20-2020-_JM#polycard_client=search-nordic&position=8&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 72.000
+https://auto.mercadolibre.com.ar/MLA-1967977812-toyota-corolla-cross-20-seg-cvt-blindado-rb3-bullet-proof-_JM#polycard_client=search-nordic&position=9&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 38.200.000
+https://auto.mercadolibre.com.ar/MLA-1458359447-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=10&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 38.900.000
+https://auto.mercadolibre.com.ar/MLA-1458185475-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=12&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 43.900.000
+https://auto.mercadolibre.com.ar/MLA-1467427717-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=13&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 34.800.000
+https://auto.mercadolibre.com.ar/MLA-1948937710-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=15&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 47.900.000
+https://auto.mercadolibre.com.ar/MLA-1454292619-toyota-corolla-cross-20-seg-cvt-2024-_JM#polycard_client=search-nordic&position=17&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 41.000.000
+https://auto.mercadolibre.com.ar/MLA-1969268626-toyota-corolla-cross-xei-20-cvt-_JM#polycard_client=search-nordic&position=23&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 45.305.000
+https://auto.mercadolibre.com.ar/MLA-1971107402-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=26&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 47.500.000
+https://auto.mercadolibre.com.ar/MLA-1462552445-toyota-corolla-cross-20-grs-cvt-170cv-_JM#polycard_client=search-nordic&position=27&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 34.300.000
+https://auto.mercadolibre.com.ar/MLA-1970452942-toyota-corolla-cross-20-xli-cvt-2023-_JM#polycard_client=search-nordic&position=32&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 44.500.000
+https://auto.mercadolibre.com.ar/MLA-1901063152-toyota-corolla-cross-xei-cvt-l25-_JM#polycard_client=search-nordic&position=34&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 43.000.000
+https://auto.mercadolibre.com.ar/MLA-1842813054-toyota-corolla-cross-2024-20-xli-cvt-_JM#polycard_client=search-nordic&position=38&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 35.000.000
+https://auto.mercadolibre.com.ar/MLA-1458179103-toyota-corolla-cross-xei-at-_JM#polycard_client=search-nordic&position=41&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 44.500.000
+https://auto.mercadolibre.com.ar/MLA-1464053287-okm-a-patentar-_JM#polycard_client=search-nordic&position=42&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 35.500.000
+https://auto.mercadolibre.com.ar/MLA-1946450678-toyota-corolla-cross-seg-20-cvt-2021-_JM#polycard_client=search-nordic&position=43&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 38.700.000
+https://auto.mercadolibre.com.ar/MLA-1972190070-toyota-corolla-cross-gr-2022-_JM#polycard_client=search-nordic&position=47&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 36.500
+https://auto.mercadolibre.com.ar/MLA-1970266168-toyota-corolla-cross-seg-20-tope-de-gama-con-garantia--_JM#polycard_client=search-nordic&position=48&search_layout=grid&type=item&tracking_id=a122f789-8740-4326-86c7-2f662dc877d0
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 34.999.990
+https://auto.mercadolibre.com.ar/MLA-1976519278-toyota-corolla-cross-20-seg-cvt-2021-_JM#polycard_client=search-nordic&position=7&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 38.000
+https://auto.mercadolibre.com.ar/MLA-1464085495-toyota-corolla-cross-seg-20-cvt-2024-_JM#polycard_client=search-nordic&position=8&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 38.300.000
+https://auto.mercadolibre.com.ar/MLA-1458283849-corolla-cross-toyota-_JM#polycard_client=search-nordic&position=13&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 33.000
+https://auto.mercadolibre.com.ar/MLA-1464757453-toyota-corolla-cross-xli-cvt-2024-_JM#polycard_client=search-nordic&position=17&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 36.489.990
+https://auto.mercadolibre.com.ar/MLA-1467870131-toyota-corolla-cross-20-xli-cvt-2024-8500-km-_JM#polycard_client=search-nordic&position=19&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 32.950
+https://auto.mercadolibre.com.ar/MLA-1946521890-toyota-corolla-cross-20-xli-cvt-auto-mania-_JM#polycard_client=search-nordic&position=21&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 32.449.900
+https://auto.mercadolibre.com.ar/MLA-1976442244-toyota-corolla-cross-20-xli-cvt-ll-_JM#polycard_client=search-nordic&position=22&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 41.900.000
+https://auto.mercadolibre.com.ar/MLA-1460637929-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=24&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 43.500.000
+https://auto.mercadolibre.com.ar/MLA-1931334364-toyota-corolla-cross-2024-20-xei-cvt-4000-kms-garantia-_JM#polycard_client=search-nordic&position=28&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 40.910.000
+https://auto.mercadolibre.com.ar/MLA-1874236716-toyota-corolla-cross-seg-20-my-25-con-toyota-plan-_JM#polycard_client=search-nordic&position=29&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 1.8 Seg Hev 1.8 Ecvt - $ 38.000
+https://auto.mercadolibre.com.ar/MLA-1936712450-toyota-corolla-cross-18-seg-hev-18-ecvt-2024-_JM#polycard_client=search-nordic&position=31&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 33.500
+https://auto.mercadolibre.com.ar/MLA-1463300835-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=34&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 47.500.000
+https://auto.mercadolibre.com.ar/MLA-1941872190-toyota-corolla-cross-20-seg-cvt-at-0km-2024-46655831-_JM#polycard_client=search-nordic&position=35&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 45.500.000
+https://auto.mercadolibre.com.ar/MLA-1808294902-toyota-corolla-cross-se-g-aut-0-km-entrega-inmediata-_JM#polycard_client=search-nordic&position=38&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 44.613.000
+https://auto.mercadolibre.com.ar/MLA-1969566242-toyota-corolla-cross-20-seg-cvt-2024-_JM#polycard_client=search-nordic&position=40&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 34.500.000
+https://auto.mercadolibre.com.ar/MLA-1965150100-toyota-corolla-cross-seg-cvt-2022-_JM#polycard_client=search-nordic&position=41&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 36.000.000
+https://auto.mercadolibre.com.ar/MLA-1451872355-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=42&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 31.000
+https://auto.mercadolibre.com.ar/MLA-1464147335-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=44&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 41.800.000
+https://auto.mercadolibre.com.ar/MLA-1443772617-toyota-corolla-cross-20-xli-cvt-2024-_JM#polycard_client=search-nordic&position=48&search_layout=grid&type=item&tracking_id=173307e8-1140-4b6d-8685-731168728910
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 33.900
+https://auto.mercadolibre.com.ar/MLA-1976533268-toyota-corolla-cross-20-seg-cvt-2022-rpm-moviles-_JM#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 46.000.000
+https://auto.mercadolibre.com.ar/MLA-1943046306-toyota-corolla-cross-2024-seg-_JM#polycard_client=search-nordic&position=3&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 30.900
+https://auto.mercadolibre.com.ar/MLA-1974080122-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=6&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 50.000.000
+https://auto.mercadolibre.com.ar/MLA-1459613265-toyota-corolla-cross-20-seg-cvt-2024-_JM#polycard_client=search-nordic&position=10&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 1.8 Seg Hev - $ 45.000
+https://auto.mercadolibre.com.ar/MLA-1953303194-toyota-corolla-cross-18-seg-hev-2024-_JM#polycard_client=search-nordic&position=11&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 40.000
+https://auto.mercadolibre.com.ar/MLA-1453351503-toyota-corolla-cross-2024-20-xei-cvt-_JM#polycard_client=search-nordic&position=13&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 45.000
+https://auto.mercadolibre.com.ar/MLA-1968994882-toyota-corolla-cross-20-seg-cvt-0km-entrega-ya-_JM#polycard_client=search-nordic&position=14&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 35.600.000
+https://auto.mercadolibre.com.ar/MLA-1970456830-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=16&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 29.700
+https://auto.mercadolibre.com.ar/MLA-1983215290-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=17&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 45.900.000
+https://auto.mercadolibre.com.ar/MLA-1899178114-toyota-corolla-cross-2024-20-xei-cvt-_JM#polycard_client=search-nordic&position=19&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 46.500.000
+https://auto.mercadolibre.com.ar/MLA-1962700820-toyota-corolla-cross-seg-20-cvt-2024-0k-_JM#polycard_client=search-nordic&position=20&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 46.000
+https://auto.mercadolibre.com.ar/MLA-1465593979-toyota-corolla-cross-20-grs-cvt-170cv-_JM#polycard_client=search-nordic&position=23&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 48.500.000
+https://auto.mercadolibre.com.ar/MLA-1958282560-toyota-corolla-cross-20-grs-cvt-170cv-_JM#polycard_client=search-nordic&position=24&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 39.500
+https://auto.mercadolibre.com.ar/MLA-1454807305-toyota-corolla-cross-2024-20-grs-cvt-170cv-_JM#polycard_client=search-nordic&position=31&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross Seg Hev 1.8 Ecvt - $ 45.500.000
+https://auto.mercadolibre.com.ar/MLA-1968056388-toyota-corolla-cross-2024-_JM#polycard_client=search-nordic&position=36&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 31.000.000
+https://auto.mercadolibre.com.ar/MLA-1931270612-toyota-corolla-cross-2022-20-xli-cvt-_JM#polycard_client=search-nordic&position=40&search_layout=grid&type=item&tracking_id=838d3f31-5e20-4047-ad21-30cea1b3e6a5
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 35.900.000
+https://auto.mercadolibre.com.ar/MLA-1976406784-toyota-corolla-cross-xli-cvt-2024-5200km-_JM#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 41.500.000
+https://auto.mercadolibre.com.ar/MLA-1936209066-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=4&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 38.700.000
+https://auto.mercadolibre.com.ar/MLA-1972456066-toyota-corolla-cross-20-seg-cvt-2022-certificado-_JM#polycard_client=search-nordic&position=6&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 34.500.000
+https://auto.mercadolibre.com.ar/MLA-1463718257-toyota-corolla-cross-20-xei-cvt-int-9538-_JM#polycard_client=search-nordic&position=7&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 33.500.000
+https://auto.mercadolibre.com.ar/MLA-1966692438-toyota-corolla-cross-20-xei-cvt-int-9489-_JM#polycard_client=search-nordic&position=8&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 31.500
+https://auto.mercadolibre.com.ar/MLA-1955576900-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=10&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 35.700.000
+https://auto.mercadolibre.com.ar/MLA-1925139742-toyota-corolla-cross-2021-20-xei-cvt-_JM#polycard_client=search-nordic&position=12&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 59.500
+https://auto.mercadolibre.com.ar/MLA-1457266173-toyota-corolla-cross-2023-20-seg-blindado-rb3-bullet-proof-_JM#polycard_client=search-nordic&position=17&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 43.900.000
+https://auto.mercadolibre.com.ar/MLA-1467460921-toyota-corolla-cross-20-xli-_JM#polycard_client=search-nordic&position=22&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 42.250.000
+https://auto.mercadolibre.com.ar/MLA-1789674732-toyota-corolla-cross-20-xei-cvt-0km-_JM#polycard_client=search-nordic&position=34&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 38.500.000
+https://auto.mercadolibre.com.ar/MLA-1465602571-toyota-corolla-cross-20-xli-cvt-2024-arrambideautos-_JM#polycard_client=search-nordic&position=35&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xei - $ 37.800.000
+https://auto.mercadolibre.com.ar/MLA-1937372268-toyota-corolla-cross-xei-20-ano-2024-hmautomotores-_JM#polycard_client=search-nordic&position=36&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 42.000.000
+https://auto.mercadolibre.com.ar/MLA-1464988363-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=40&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 42.900.000
+https://auto.mercadolibre.com.ar/MLA-1456492785-cross-xei-nafta-_JM#polycard_client=search-nordic&position=42&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 42.445.148
+https://auto.mercadolibre.com.ar/MLA-1949021406-toyota-corolla-cross-20-seg-cvt-2023-_JM#polycard_client=search-nordic&position=43&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 39.500.000
+https://auto.mercadolibre.com.ar/MLA-1454991395-toyota-corolla-cross-2024-20-xli-cvt-_JM#polycard_client=search-nordic&position=44&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 37.800.000
+https://auto.mercadolibre.com.ar/MLA-1928172386-toyota-corolla-cross-xei-cvt-20-2024-villarautoslp-_JM#polycard_client=search-nordic&position=45&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross Seg 2.0 Cvt - $ 43.900.000
+https://auto.mercadolibre.com.ar/MLA-1463267297-toyota-corolla-cross-seg-20-cvt-2025-oldcarsba-_JM#polycard_client=search-nordic&position=48&search_layout=grid&type=item&tracking_id=fc92cecc-6d8f-4606-af38-115897689cc6
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 39.500.000
+https://auto.mercadolibre.com.ar/MLA-1458668785-toyota-cross-xei-20-2024-linea-2025-_JM#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=de44cadb-156e-4334-8d43-5cd27db516fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 33.000.000
+https://auto.mercadolibre.com.ar/MLA-1976938400-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=15&search_layout=grid&type=item&tracking_id=de44cadb-156e-4334-8d43-5cd27db516fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 40.000
+https://auto.mercadolibre.com.ar/MLA-1464275965-toyota-_JM#polycard_client=search-nordic&position=16&search_layout=grid&type=item&tracking_id=de44cadb-156e-4334-8d43-5cd27db516fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 37.000
+https://auto.mercadolibre.com.ar/MLA-1963233816-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=21&search_layout=grid&type=item&tracking_id=de44cadb-156e-4334-8d43-5cd27db516fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 41.000.000
+https://auto.mercadolibre.com.ar/MLA-1965111992-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=26&search_layout=grid&type=item&tracking_id=de44cadb-156e-4334-8d43-5cd27db516fa
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 39.000.000
+https://auto.mercadolibre.com.ar/MLA-1463121971-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=27&search_layout=grid&type=item&tracking_id=de44cadb-156e-4334-8d43-5cd27db516fa
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 37.500.000
+https://auto.mercadolibre.com.ar/MLA-1975513814-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=30&search_layout=grid&type=item&tracking_id=de44cadb-156e-4334-8d43-5cd27db516fa
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 31.000
+https://auto.mercadolibre.com.ar/MLA-1977350412-toyota-corolla-cross-2021-full-_JM#polycard_client=search-nordic&position=34&search_layout=grid&type=item&tracking_id=de44cadb-156e-4334-8d43-5cd27db516fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 31.900.000
+https://auto.mercadolibre.com.ar/MLA-1974740534-toyota-corolla-cross-xli-20-cvt-_JM#polycard_client=search-nordic&position=36&search_layout=grid&type=item&tracking_id=de44cadb-156e-4334-8d43-5cd27db516fa
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 32.000
+https://auto.mercadolibre.com.ar/MLA-1467974005-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=44&search_layout=grid&type=item&tracking_id=de44cadb-156e-4334-8d43-5cd27db516fa
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 32.900.000
+https://auto.mercadolibre.com.ar/MLA-1464027147-toyota-corolla-cross-20-xli-cvt-_JM#polycard_client=search-nordic&position=2&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 36.900
+https://auto.mercadolibre.com.ar/MLA-1970132464-toyota-corolla-cross-_JM#polycard_client=search-nordic&position=4&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 39.900.000
+https://auto.mercadolibre.com.ar/MLA-1462922439-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=6&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 31.900.000
+https://auto.mercadolibre.com.ar/MLA-1964561498-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=10&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 31.999
+https://auto.mercadolibre.com.ar/MLA-1464653555-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=12&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Grs Cvt 170cv - $ 34.900
+https://auto.mercadolibre.com.ar/MLA-1963603400-toyota-cross-_JM#polycard_client=search-nordic&position=14&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 34.900.000
+https://auto.mercadolibre.com.ar/MLA-1969471854-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=15&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 28.000
+https://auto.mercadolibre.com.ar/MLA-1964565748-toyota-corolla-cross-2022-_JM#polycard_client=search-nordic&position=16&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 39.000.000
+https://auto.mercadolibre.com.ar/MLA-1964579238-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=27&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 38.000.000
+https://auto.mercadolibre.com.ar/MLA-1970415906-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=28&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 34.500
+https://auto.mercadolibre.com.ar/MLA-1463601449-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=29&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 37.000.000
+https://auto.mercadolibre.com.ar/MLA-1980312930-toyota-corolla-cross-20-seg-cvt-_JM#polycard_client=search-nordic&position=31&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 45.000
+https://auto.mercadolibre.com.ar/MLA-1971230906-corolla-cross-xei-20-cvt-2023-_JM#polycard_client=search-nordic&position=35&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 36.000
+https://auto.mercadolibre.com.ar/MLA-1973672732-corolla-cross-xei-2024-20-cvt-170cv-_JM#polycard_client=search-nordic&position=36&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xli Cvt - $ 36.295.000
+https://auto.mercadolibre.com.ar/MLA-1925237972-toyota-corolla-cross-xli-a-estrenar-tomamos-permutas-_JM#polycard_client=search-nordic&position=41&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Xei Cvt - $ 20.930.000
+https://auto.mercadolibre.com.ar/MLA-1972887922-toyota-corolla-cross-20-xei-cvt-_JM#polycard_client=search-nordic&position=47&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+Toyota Corolla Cross 2.0 Seg Cvt - $ 29.500
+https://auto.mercadolibre.com.ar/MLA-1903966518-toyota-corolla-cross-20-seg-cvt-2021-_JM#polycard_client=search-nordic&position=48&search_layout=grid&type=item&tracking_id=c8ab3df3-7e9b-44f6-83b8-ec8ad18bd6d2
+
+____________________________________
