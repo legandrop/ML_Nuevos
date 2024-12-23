@@ -77,14 +77,14 @@ export default function Results() {
     <div className="space-y-4">
       <div className="flex justify-between items-center text-sm">
         <div className="p-2 bg-gray-800/50 rounded">
-          <span style={{ color: '#D3D3D3', fontWeight: 800 }}>Búsqueda previa</span>{' '}
-          <span style={{ color: '#969696' }}>({results.previousResults.date}):</span>{' '}
-          <span className="text-purple-400" style={{ fontWeight: 800 }}>{results.previousResults.count}</span>
-        </div>
-        <div className="p-2 bg-gray-800/50 rounded">
           <span style={{ color: '#D3D3D3', fontWeight: 800 }}>Búsqueda nueva</span>{' '}
           <span style={{ color: '#969696' }}>({results.currentResults.date}):</span>{' '}
           <span className="text-purple-400" style={{ fontWeight: 800 }}>{results.currentResults.count}</span>
+        </div>
+        <div className="p-2 bg-gray-800/50 rounded">
+          <span style={{ color: '#D3D3D3', fontWeight: 800 }}>Búsqueda previa</span>{' '}
+          <span style={{ color: '#969696' }}>({results.previousResults.date}):</span>{' '}
+          <span className="text-purple-400" style={{ fontWeight: 800 }}>{results.previousResults.count}</span>
         </div>
       </div>
 
