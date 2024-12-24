@@ -79,7 +79,9 @@ def scrape_productos(url):
             if "captcha" in response.url.lower() or "error" in response.url.lower():
                 print(f"⚠️ Intento {intento + 1}/{max_intentos}: Detectado captcha o página de error")
                 if intento < max_intentos - 1:
-                    time.sleep(10)  # Tiempo fijo entre intentos si hay error (antes era hasta 10 segundos)
+                    # En el último intento, duplicamos el tiempo de espera
+                    tiempo_espera = 20 if intento == 1 else 10
+                    time.sleep(tiempo_espera)
                     continue
                 return [], None
                 
@@ -89,7 +91,9 @@ def scrape_productos(url):
         except requests.RequestException as e:
             print(f"⚠️ Intento {intento + 1}/{max_intentos}: Error al acceder a la página: {e}")
             if intento < max_intentos - 1:
-                time.sleep(10)  # Tiempo fijo entre intentos si hay error (antes era hasta 10 segundos)
+                # En el último intento, duplicamos el tiempo de espera
+                tiempo_espera = 20 if intento == 1 else 10
+                time.sleep(tiempo_espera)
                 continue
             return [], None
     
