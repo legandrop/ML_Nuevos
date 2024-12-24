@@ -84,7 +84,8 @@ def scrape_productos(url):
                     continue
                 return [], None
                 
-            return procesar_pagina(response)
+            productos, next_url = procesar_pagina(response)
+            return productos, next_url
             
         except requests.RequestException as e:
             print(f"⚠️ Intento {intento + 1}/{max_intentos}: Error al acceder a la página: {e}")
@@ -102,14 +103,18 @@ def procesar_pagina(response):
     soup = BeautifulSoup(response.content, "html.parser")
     productos = []
     
+    # Obtener todos los items antes de filtrar
+    todos_los_items = soup.find_all("li", class_="ui-search-layout__item")
+    
     # Verificar si la página está vacía o tiene contenido válido
-    if not soup.find_all("li", class_="ui-search-layout__item"):
+    if not todos_los_items:
         print("⚠️ No se encontraron productos en la página")
         return [], None
         
     print("🔄 Scrapeando la página de Mercado Libre...")
+    print(f"📦 Total de productos encontrados en esta página: {len(todos_los_items)}")
     
-    for item in soup.find_all("li", class_="ui-search-layout__item"):
+    for item in todos_los_items:
         try:
             titulo_tag = item.find("a")
             titulo = titulo_tag.text.strip() if titulo_tag else "No disponible"
@@ -124,8 +129,10 @@ def procesar_pagina(response):
         except Exception as e:
             continue
 
-    # Buscar el enlace de la siguiente página
-    print("\n🔍 Buscando sección de paginación...")
+    productos = eliminar_duplicados(productos)
+    print(f"📦 Se encontraron {len(productos)} productos únicos en esta página.")
+    print("--")
+    print("🔍 Buscando sección de paginación...")
     
     # Primero intentamos con la clase ui-search-andes-pagination
     pagination = soup.find("ul", class_="ui-search-andes-pagination")
@@ -138,7 +145,7 @@ def procesar_pagina(response):
             print("✅ Encontrada la sección de paginación (método 2)")
         else:
             print("❌ No se encontró la sección de paginación")
-            print("\n🔍 HTML cercano a la paginación:")
+            print("🔍 HTML cercano a la paginación:")
             nav = soup.find("nav", {"aria-label": "Paginación"})
             if nav:
                 print(nav.prettify())
@@ -295,6 +302,7 @@ def main():
         all_productos.extend(productos)
 
         if not next_url:
+            print("_________________________________________________________________________________"\n)
             print("🔚 No hay más páginas disponibles. Finalizando scraping.")
             break
 
