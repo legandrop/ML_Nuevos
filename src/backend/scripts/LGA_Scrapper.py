@@ -66,8 +66,8 @@ def scrape_productos(url):
         "Pragma": "no-cache"
     }
     
-    # Aumentar el delay aleatorio entre 2 y 5 segundos
-    time.sleep(2 + random.random() * 3)
+    # Tiempo fijo de espera de 5 segundos (el máximo que teníamos antes)
+    time.sleep(5)
     
     max_intentos = 3
     for intento in range(max_intentos):
@@ -76,11 +76,10 @@ def scrape_productos(url):
             response = session.get(url, headers=headers, timeout=10)
             response.raise_for_status()
             
-            # Verificar si fuimos redirigidos a una página de captcha o error
             if "captcha" in response.url.lower() or "error" in response.url.lower():
                 print(f"⚠️ Intento {intento + 1}/{max_intentos}: Detectado captcha o página de error")
                 if intento < max_intentos - 1:
-                    time.sleep(5 + random.random() * 5)  # Esperar más tiempo entre intentos
+                    time.sleep(10)  # Tiempo fijo entre intentos si hay error (antes era hasta 10 segundos)
                     continue
                 return [], None
                 
@@ -90,7 +89,7 @@ def scrape_productos(url):
         except requests.RequestException as e:
             print(f"⚠️ Intento {intento + 1}/{max_intentos}: Error al acceder a la página: {e}")
             if intento < max_intentos - 1:
-                time.sleep(5 + random.random() * 5)
+                time.sleep(10)  # Tiempo fijo entre intentos si hay error (antes era hasta 10 segundos)
                 continue
             return [], None
     
@@ -100,11 +99,18 @@ def procesar_pagina(response):
     """
     Procesa el contenido de la página y extrae productos y siguiente URL
     """
-    soup = BeautifulSoup(response.content, "html.parser")
-    productos = []
+    max_intentos_parse = 3  # Número máximo de intentos para parsear la página
+    todos_los_items = []
     
-    # Obtener todos los items antes de filtrar
-    todos_los_items = soup.find_all("li", class_="ui-search-layout__item")
+    for intento in range(max_intentos_parse):
+        soup = BeautifulSoup(response.content, "html.parser")
+        todos_los_items = soup.find_all("li", class_="ui-search-layout__item")
+        
+        if len(todos_los_items) > 0:
+            break
+        
+        print(f"⏳ Esperando que la página cargue completamente (intento {intento + 1}/{max_intentos_parse})")
+        time.sleep(2)  # Esperar 2 segundos entre intentos
     
     # Verificar si la página está vacía o tiene contenido válido
     if not todos_los_items:
@@ -114,6 +120,7 @@ def procesar_pagina(response):
     print("🔄 Scrapeando la página de Mercado Libre...")
     print(f"📦 Total de productos encontrados en esta página: {len(todos_los_items)}")
     
+    productos = []
     for item in todos_los_items:
         try:
             titulo_tag = item.find("a")
@@ -132,6 +139,7 @@ def procesar_pagina(response):
     productos = eliminar_duplicados(productos)
     print(f"📦 Se encontraron {len(productos)} productos únicos en esta página.")
     print("--")
+    
     print("🔍 Buscando sección de paginación...")
     
     # Primero intentamos con la clase ui-search-andes-pagination
@@ -297,12 +305,10 @@ def main():
             print("🔚 No se encontraron más productos. Finalizando scraping.")
             break
 
-        productos = eliminar_duplicados(productos)
-        print(f"📦 Se encontraron {len(productos)} productos únicos en esta página.\n")
+        print("\n_________________________________________________________________________________\n")
         all_productos.extend(productos)
 
         if not next_url:
-            print("_________________________________________________________________________________"\n)
             print("🔚 No hay más páginas disponibles. Finalizando scraping.")
             break
 
