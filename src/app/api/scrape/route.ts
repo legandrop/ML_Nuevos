@@ -17,33 +17,57 @@ export async function POST(request: Request) {
       env: { ...process.env, 'PYTHONUNBUFFERED': '1' }
     });
 
-    const encoder = new TextEncoder();
-    const stream = new TransformStream({
-      transform(chunk, controller) {
-        controller.enqueue(encoder.encode(`data: ${chunk}\n\n`));
-      }
-    });
-
+    const stream = new TransformStream();
     const writer = stream.writable.getWriter();
+    let buffer = '';
 
     pythonProcess.stdout.on('data', (data) => {
-      writer.write(`${data}`);
+      const text = data.toString();
+      buffer += text;
+      
+      // Si el buffer contiene una línea completa
+      if (buffer.includes('\n')) {
+        const lines = buffer.split('\n');
+        // Mantenemos la última línea incompleta en el buffer
+        buffer = lines.pop() || '';
+        
+        let skipNext = false;
+        
+        for (let i = 0; i < lines.length; i++) {
+          if (skipNext) {
+            skipNext = false;
+            continue;
+          }
+          
+          const currentLine = lines[i];
+          const nextLine = lines[i + 1];
+          
+          // Si la línea actual y la siguiente están vacías, envía un solo salto
+          if (currentLine === '' && nextLine === '') {
+            writer.write(new TextEncoder().encode(`data: \n`));
+            skipNext = true;
+          } else if (currentLine.trim() || currentLine === '') {
+            // Si no es un doble salto, envía la línea sin salto adicional
+            writer.write(new TextEncoder().encode(`data: ${currentLine}`));
+          }
+        }
+      }
     });
 
     pythonProcess.stderr.on('data', (data) => {
       console.error('Python stderr:', data.toString());
-      writer.write(new TextEncoder().encode(`data: Error: ${data}\n\n`));
+      writer.write(new TextEncoder().encode(`data: Error: ${data}`));
     });
 
     pythonProcess.on('error', (error) => {
       console.error('Process error:', error);
-      writer.write(new TextEncoder().encode(`data: Error al ejecutar el script: ${error}\n\n`));
+      writer.write(new TextEncoder().encode(`data: Error al ejecutar el script: ${error}`));
     });
 
     pythonProcess.on('close', (code) => {
-      console.log('Process exited with code:', code);
-      if (code !== 0) {
-        writer.write(new TextEncoder().encode(`data: El proceso terminó con código de error: ${code}\n\n`));
+      // Enviamos cualquier dato restante en el buffer
+      if (buffer.trim()) {
+        writer.write(new TextEncoder().encode(`data: ${buffer}`));
       }
       writer.close();
     });

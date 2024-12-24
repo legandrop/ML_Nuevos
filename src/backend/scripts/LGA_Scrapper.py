@@ -26,6 +26,8 @@ class Logger:
         self.log = open(filename, "w", encoding="utf-8", buffering=1)
 
     def write(self, message):
+        # Si el mensaje es solo un salto de línea, enviamos un espacio
+        
         self.console.write(message)
         self.console.flush()
         self.log.write(message)
@@ -99,6 +101,8 @@ def procesar_pagina(response):
     """
     Procesa el contenido de la página y extrae productos y siguiente URL
     """
+    print("=== INICIO DE PROCESAMIENTO DE PÁGINA ===")
+    
     soup = BeautifulSoup(response.content, "html.parser")
     productos = []
     
@@ -109,6 +113,7 @@ def procesar_pagina(response):
         
     print("🔄 Scrapeando la página de Mercado Libre...")
     
+    # Extraer información de cada producto
     for item in soup.find_all("li", class_="ui-search-layout__item"):
         try:
             titulo_tag = item.find("a")
@@ -124,11 +129,16 @@ def procesar_pagina(response):
         except Exception as e:
             continue
 
+    print(f"📦 Se encontraron {len(productos)} productos en esta página.")
+    print("____________________________________")
+    
     # Buscar el enlace de la siguiente página
-    print("\n🔍 Buscando sección de paginación...")
+    print("=== BÚSQUEDA DE SIGUIENTE PÁGINA ===")
+    print("🔍 Buscando sección de paginación...")
     
     # Primero intentamos con la clase ui-search-andes-pagination
     pagination = soup.find("ul", class_="ui-search-andes-pagination")
+    
     if pagination:
         print("✅ Encontrada la sección de paginación (método 1)")
     else:
@@ -138,36 +148,43 @@ def procesar_pagina(response):
             print("✅ Encontrada la sección de paginación (método 2)")
         else:
             print("❌ No se encontró la sección de paginación")
-            print("\n🔍 HTML cercano a la paginación:")
+            print("🔍 HTML cercano a la paginación:")
             nav = soup.find("nav", {"aria-label": "Paginación"})
             if nav:
-                print(nav.prettify())
+                print("" + nav.prettify())
             else:
                 print("No se encontró el nav de paginación")
+
 
     if pagination:
         next_button = pagination.find("li", class_="andes-pagination__button--next")
         if next_button:
-            print("✅ Encontrado el botón siguiente")
+            print("\n✅ Encontrado el botón siguiente")
             next_link = next_button.find("a")
             if next_link and "href" in next_link.attrs:
                 next_url = next_link["href"]
-                print(f"🔍 URL del botón siguiente: {next_url}")
+                print(f"\n🔍 URL del botón siguiente: {next_url}")
+                print("\n=== FIN DE PROCESAMIENTO DE PÁGINA ===")
                 return productos, next_url
             else:
-                print("❌ No se encontró el enlace dentro del botón siguiente")
+                print("\n❌ No se encontró el enlace dentro del botón siguiente")
         else:
-            print("❌ No se encontró el botón siguiente dentro de la paginación")
-
+            print("\n❌ No se encontró el botón siguiente dentro de la paginación")
+    
+    print("\n🔍 Intentando búsqueda alternativa del botón siguiente...")
+    
     # Búsqueda alternativa directa
     next_button = soup.find("li", class_="andes-pagination__button--next")
     if next_button:
-        print("✅ Encontrado el botón siguiente (búsqueda alternativa)")
+        print("\n✅ Encontrado el botón siguiente (búsqueda alternativa)")
         next_link = next_button.find("a")
         if next_link and "href" in next_link.attrs:
             next_url = next_link["href"]
-            print(f"🔍 URL del botón siguiente: {next_url}")
+            print(f"\n🔍 URL del botón siguiente: {next_url}")
+            
             return productos, next_url
+    
+    print("\n____________________________________")
 
     return productos, None
 
@@ -222,12 +239,12 @@ def imprimir_resumen_nuevos(nuevos_productos):
     """
     Imprime el resumen de los nuevos productos encontrados.
     """
-    print("\n\n____________________________________\n\n")
-    print("🆕 Nuevos productos encontrados:\n")
+    print("____________________________________")
+    print("🆕 Nuevos productos encontrados:")
     for producto in nuevos_productos:
         print(f"{producto['titulo']} - $ {producto['precio']}")
-        print(f"{producto['enlace']}\n")
-    print("____________________________________")
+        print(f"{producto['enlace']}")
+    print("\n\n____________________________________")
 
 def limpiar_archivos_antiguos(busqueda):
     """
@@ -276,7 +293,7 @@ def limpiar_archivos_antiguos(busqueda):
 
 def main():
     busqueda = SEARCH_TERM
-    print("🔍 Buscando productos en Mercado Libre...")
+    print("🔍 Buscando productos en Mercado Libre...\n\n\n\n")
     
     all_productos = []
     
@@ -291,7 +308,7 @@ def main():
             break
 
         productos = eliminar_duplicados(productos)
-        print(f"📦 Se encontraron {len(productos)} productos únicos en esta página.\n")
+        print(f"📦 Se encontraron {len(productos)} productos únicos en esta página.")
         all_productos.extend(productos)
 
         if not next_url:
@@ -303,7 +320,7 @@ def main():
     
     # 4. Eliminar duplicados de todas las páginas scrapeadas
     all_productos = eliminar_duplicados(all_productos)
-    print(f"📦 Total de productos únicos scrapeados: {len(all_productos)}\n")
+    print(f"📦 Total de productos únicos scrapeados: {len(all_productos)}")
     
     if not all_productos:
         print("❌ No se encontraron productos tras procesar todas las páginas. Terminando el script.")
@@ -324,7 +341,7 @@ def main():
         productos_anteriores = cargar_json(archivo_anterior)
         productos_anteriores = eliminar_duplicados(productos_anteriores)
         print(f"📄 Archivo anterior encontrado: '{archivo_anterior}'")
-        print(f"📦 Se encontraron {len(productos_anteriores)} productos únicos en el JSON anterior.\n")
+        print(f"📦 Se encontraron {len(productos_anteriores)} productos únicos en el JSON anterior.")
         
         anteriores_dict = {}
         for item in productos_anteriores:
@@ -335,7 +352,7 @@ def main():
             else:
                 anteriores_dict[titulo] = set([precio])
         
-        print("🔍 Comparando productos actuales con los anteriores...\n")
+        print("🔍 Comparando productos actuales con los anteriores...")
         
         for producto in all_productos:
             titulo = producto['titulo']
@@ -350,7 +367,7 @@ def main():
                 print(f"✅ {titulo} - $ {precio} - PUBLICACIÓN NUEVA!!! ✅✅✅")
                 nuevos_productos.append(producto)
     else:
-        print("🆕 No se encontró un archivo anterior para comparar. Todos los productos son nuevos.\n")
+        print("🆕 No se encontró un archivo anterior para comparar. Todos los productos son nuevos.")
         nuevos_productos = all_productos[:]
         for producto in nuevos_productos:
             titulo = producto['titulo']

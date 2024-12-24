@@ -67,9 +67,11 @@ export default function Home() {
         if (done) break;
 
         const text = new TextDecoder().decode(value);
-        const lines = text.split('\n');
+        const lines = text.split('\n')
+          .map(line => line.replace('data: ', ''))
+          .filter(line => line.trim() || line === '');
         
-        setLogs(prevLogs => [...prevLogs, ...lines.filter(line => line.trim())]);
+        setLogs(prevLogs => [...prevLogs, ...lines]);
       }
 
       setShowResults(true);
@@ -363,31 +365,26 @@ export default function Home() {
                 </div>
               )
             ) : (
-              <div style={{ fontFamily: 'monospace' }} className="space-y-1">
-                {logs.length === 0 ? (
-                  <div style={{ color: '#666', textAlign: 'center', marginTop: '16px' }}>
-                    Los logs de la búsqueda aparecerán aquí...
+              <div className="log-container">
+                {logs.map((log, index) => (
+                  <div 
+                    key={index}
+                    className={`log-line ${log === '' && logs[index - 1] === '' ? 'double-break' : ''}`}
+                    style={{
+                      color: log.includes('PUBLICACIÓN NUEVA') 
+                        ? '#4ade80'
+                        : log.includes('Error')
+                        ? '#f87171'
+                        : log.includes('🌐')
+                        ? '#60a5fa'
+                        : log.includes('📦')
+                        ? '#c084fc'
+                        : '#d1d5db'
+                    }}
+                  >
+                    {log.replace('data: ', '')}
                   </div>
-                ) : (
-                  logs.map((log, index) => (
-                    <div 
-                      key={index}
-                      style={{
-                        color: log.includes('PUBLICACIÓN NUEVA') 
-                          ? '#4ade80'
-                          : log.includes('Error')
-                          ? '#f87171'
-                          : log.includes('🌐')
-                          ? '#60a5fa'
-                          : log.includes('📦')
-                          ? '#c084fc'
-                          : '#d1d5db'
-                      }}
-                    >
-                      {log.replace('data: ', '')}
-                    </div>
-                  ))
-                )}
+                ))}
               </div>
             )}
           </div>

@@ -45,4 +45,27 @@ select option:checked {
 /* Para asegurar que el fondo del option seleccionado también tenga el color correcto */
 select option:checked {
   background: var(--button-color) !important;
+}
+
+/* Estilos específicos para los logs */
+.log-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.log-line {
+  white-space: pre-wrap;
+  min-height: 1em;
+  display: inline;
+}
+
+.log-line:after {
+  content: " ";
+}
+
+/* Solo crear espacio cuando hay dos saltos de línea seguidos */
+.log-line.double-break {
+  display: block;
+  margin-bottom: 1em;
 } 
