@@ -69,7 +69,7 @@ export default function Home() {
         const text = new TextDecoder().decode(value);
         const lines = text.split('\n');
         
-        setLogs(prevLogs => [...prevLogs, ...lines.filter(line => line.trim())]);
+        setLogs(prevLogs => [...prevLogs, ...lines]);
       }
 
       setShowResults(true);
@@ -363,7 +363,7 @@ export default function Home() {
                 </div>
               )
             ) : (
-              <div style={{ fontFamily: 'monospace' }} className="space-y-1">
+              <div className="space-y-1">
                 {logs.length === 0 ? (
                   <div style={{ color: '#666', textAlign: 'center', marginTop: '16px' }}>
                     Los logs de la búsqueda aparecerán aquí...
@@ -372,6 +372,7 @@ export default function Home() {
                   logs.map((log, index) => (
                     <div 
                       key={index}
+                      className="log-entry"
                       style={{
                         color: log.includes('PUBLICACIÓN NUEVA') 
                           ? '#4ade80'
@@ -381,10 +382,11 @@ export default function Home() {
                           ? '#60a5fa'
                           : log.includes('📦')
                           ? '#c084fc'
-                          : '#d1d5db'
+                          : '#d1d5db',
+                        marginBottom: log.trim() === '' ? '1em' : '4px'
                       }}
                     >
-                      {log.replace('data: ', '')}
+                      {log === '' ? '\u00A0' : log.replace('data: ', '')}
                     </div>
                   ))
                 )}

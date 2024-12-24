@@ -43,3 +43,7 @@ venv/
 
 # Data files (si no quieres versionar los archivos generados)
 /data/ 
+
+# Archivos JSON y TXT
+*.json
+*.txt
