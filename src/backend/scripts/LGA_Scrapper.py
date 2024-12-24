@@ -222,12 +222,12 @@ def imprimir_resumen_nuevos(nuevos_productos):
     """
     Imprime el resumen de los nuevos productos encontrados.
     """
-    print("\n\n____________________________________\n\n")
+    print("_________________________________________________________________________________\n")
     print("🆕 Nuevos productos encontrados:\n")
     for producto in nuevos_productos:
         print(f"{producto['titulo']} - $ {producto['precio']}")
         print(f"{producto['enlace']}\n")
-    print("____________________________________")
+    print("_________________________________________________________________________________")
 
 def limpiar_archivos_antiguos(busqueda):
     """
@@ -276,7 +276,7 @@ def limpiar_archivos_antiguos(busqueda):
 
 def main():
     busqueda = SEARCH_TERM
-    print("🔍 Buscando productos en Mercado Libre...")
+    print("🔍 Buscando productos en Mercado Libre...\n")
     
     all_productos = []
     

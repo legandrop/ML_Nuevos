@@ -20,7 +20,7 @@ export async function POST(request: Request) {
     const encoder = new TextEncoder();
     const stream = new TransformStream({
       transform(chunk, controller) {
-        controller.enqueue(encoder.encode(`data: ${chunk}\n\n`));
+        controller.enqueue(encoder.encode(`data: ${chunk}`));
       }
     });
 
@@ -32,18 +32,18 @@ export async function POST(request: Request) {
 
     pythonProcess.stderr.on('data', (data) => {
       console.error('Python stderr:', data.toString());
-      writer.write(new TextEncoder().encode(`data: Error: ${data}\n\n`));
+      writer.write(new TextEncoder().encode(`data: Error: ${data}`));
     });
 
     pythonProcess.on('error', (error) => {
       console.error('Process error:', error);
-      writer.write(new TextEncoder().encode(`data: Error al ejecutar el script: ${error}\n\n`));
+      writer.write(new TextEncoder().encode(`data: Error al ejecutar el script: ${error}`));
     });
 
     pythonProcess.on('close', (code) => {
       console.log('Process exited with code:', code);
       if (code !== 0) {
-        writer.write(new TextEncoder().encode(`data: El proceso terminó con código de error: ${code}\n\n`));
+        writer.write(new TextEncoder().encode(`data: El proceso terminó con código de error: ${code}`));
       }
       writer.close();
     });

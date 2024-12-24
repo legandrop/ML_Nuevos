@@ -40,7 +40,7 @@ export default function Home() {
     if (!searchTerm.trim()) return;
     
     setIsSearching(true);
-    setLogs([]);
+    setLogs(['']);
     setError('');
     setShowResults(false);
 
@@ -67,9 +67,25 @@ export default function Home() {
         if (done) break;
 
         const text = new TextDecoder().decode(value);
-        const lines = text.split('\n');
         
-        setLogs(prevLogs => [...prevLogs, ...lines]);
+        setLogs(prevLogs => {
+          const newLogs = [...prevLogs];
+          if (text.includes('\n')) {
+            // Si hay saltos de línea explícitos, dividir y procesar
+            const chunks = text.split('\n');
+            chunks.forEach((chunk, index) => {
+              if (index === 0) {
+                newLogs[newLogs.length - 1] += chunk;
+              } else {
+                newLogs.push(chunk);
+              }
+            });
+          } else {
+            // Si no hay saltos de línea, simplemente concatenar con la última línea
+            newLogs[newLogs.length - 1] += text;
+          }
+          return newLogs;
+        });
       }
 
       setShowResults(true);
